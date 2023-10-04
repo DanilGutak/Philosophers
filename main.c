@@ -6,7 +6,7 @@
 /*   By: dgutak <dgutak@student.42vienna.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/04 12:03:27 by dgutak            #+#    #+#             */
-/*   Updated: 2023/10/04 17:47:53 by dgutak           ###   ########.fr       */
+/*   Updated: 2023/10/04 17:49:19 by dgutak           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -98,10 +98,6 @@ int	main(int argc, char **argv)
 	while (++i < data.squad[0].num_phil)
 	{
 		printf("{%ld} ", data.squad[i].time_die);
-
-
-
-		
 	}
 	return (0);
 }
