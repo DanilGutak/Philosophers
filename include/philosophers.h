@@ -6,7 +6,7 @@
 /*   By: dgutak <dgutak@student.42vienna.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/31 17:58:53 by dgutak            #+#    #+#             */
-/*   Updated: 2023/10/04 17:41:04 by dgutak           ###   ########.fr       */
+/*   Updated: 2023/10/06 17:04:07 by dgutak           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -28,15 +28,22 @@ typedef struct s_philos
 	long int		time_eat;
 	long int		time_sleep;
 	long int		times_to_eat;
+	long int		time_since_eat;
+	long int		times_eaten;
 	long int		num_phil;
-	int				dead;
+	int				*dead;
 	pthread_mutex_t	r_fork;
 	pthread_mutex_t	*l_fork;
+	pthread_mutex_t	*print_lock;
+	pthread_mutex_t	*eaten_lock;
 }					t_philos;
 
 typedef struct s_data
 {
 	t_philos		*squad;
+	int				dead;
+	pthread_mutex_t	print_lock;
+	pthread_mutex_t	eaten_lock;
 }					t_data;
 
 long int			atoi_new(char *str);

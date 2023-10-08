@@ -6,7 +6,7 @@
 /*   By: dgutak <dgutak@student.42vienna.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/04 12:03:27 by dgutak            #+#    #+#             */
-/*   Updated: 2023/10/04 17:49:19 by dgutak           ###   ########.fr       */
+/*   Updated: 2023/10/06 17:08:19 by dgutak           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -37,25 +37,23 @@ int	check_argv(char **str)
 	return (0);
 }
 
-int	parse_input(t_data *data, int argc, char **argv, int i)
+int	parse_input(t_philos *philo, int argc, char **argv)
 {
-	data->squad[i].time_die = atoi_new(argv[2]);
-	data->squad[i].time_eat = atoi_new(argv[3]);
-	data->squad[i].time_sleep = atoi_new(argv[4]);
-	data->squad[i].num_phil = atoi_new(argv[1]);
+	philo->time_die = atoi_new(argv[2]);
+	philo->time_eat = atoi_new(argv[3]);
+	philo->time_sleep = atoi_new(argv[4]);
+	philo->num_phil = atoi_new(argv[1]);
 	if (argc == 6)
-		data->squad[i].times_to_eat = atoi_new(argv[5]);
+		philo->times_to_eat = atoi_new(argv[5]);
 	else
-		data->squad[i].times_to_eat = -1;
-	if (data->squad[i].time_die == 9876543210
-		|| data->squad[i].time_eat == 9876543210
-		|| data->squad[i].time_sleep == 9876543210
-		|| data->squad[i].times_to_eat == 9876543210
-		|| data->squad[i].num_phil == 9876543210)
+		philo->times_to_eat = -1;
+	if (philo->time_die == 9876543210 || philo->time_eat == 9876543210
+		|| philo->time_sleep == 9876543210 || philo->times_to_eat == 9876543210
+		|| philo->num_phil == 9876543210)
 		return (error("args are overflow integer"));
-	if (data->squad[i].num_phil > 200)
+	if (philo->num_phil > 200)
 		return (error("too many philosophers!"));
-	if (data->squad[i].num_phil < 1)
+	if (philo->num_phil < 1)
 		return (error("zero philosophers!"));
 	return (0);
 }
@@ -65,16 +63,21 @@ int	init_phils(t_data *data, int argc, char **argv)
 	int	i;
 
 	i = -1;
-	if (parse_input(data, argc, argv, 0) == 1)
+	data->dead = 0;
+	if (parse_input(&(data->squad[0]), argc, argv) == 1)
 		return (1);
 	while (++i < data->squad[0].num_phil)
 	{
-		parse_input(data, argc, argv, i);
+		parse_input(&(data->squad[i]), argc, argv);
+		data->squad[i].dead = &data->dead;
 		data->squad[i].id = i;
+		data->squad[i].times_eaten = 0;
+		data->squad[i].print_lock = &data->print_lock;
+		data->squad[i].eaten_lock = &data->eaten_lock;
 		pthread_mutex_init(&data->squad[i].r_fork, NULL);
 		if (i != 0)
 			data->squad[i].l_fork = &data->squad[i - 1].r_fork;
-		printf("{%ld} ", data->squad[i].time_die);
+		printf("{%d} ", data->squad[i].id);
 	}
 	data->squad[0].l_fork = &data->squad[data->squad[0].num_phil - 1].r_fork;
 	printf("\n");
@@ -92,6 +95,8 @@ int	main(int argc, char **argv)
 		return (error("wrong num of args"));
 	if (check_argv(argv) == 1)
 		return (error("args are not numeric positive values without +"));
+	pthread_mutex_init(&data.print_lock, NULL);
+	pthread_mutex_init(&data.eaten_lock, NULL);
 	if (init_phils(&data, argc, argv) == 1)
 		return (1);
 	i = -1;
