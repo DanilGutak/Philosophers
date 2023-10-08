@@ -6,16 +6,16 @@
 /*   By: dgutak <dgutak@student.42vienna.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/04/25 18:59:42 by dgutak            #+#    #+#             */
-/*   Updated: 2023/10/04 16:19:52 by dgutak           ###   ########.fr       */
+/*   Updated: 2023/10/08 18:59:35 by dgutak           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "philosophers.h"
 
-long int	atoi_new(char *str)
+size_t	atoi_new(char *str)
 {
-	long int	x;
-	long int	sign;
+	size_t	x;
+	int		sign;
 
 	x = 0;
 	sign = 1;
@@ -28,7 +28,7 @@ long int	atoi_new(char *str)
 			x = x * 10 + *str - '0';
 		else
 			break ;
-		if ((x > 2147483647 && sign == 1) || (x > 2147483648 && sign == -1))
+		if ((x > 2147483647 && sign == 1) || (sign == -1))
 			return (9876543210);
 		str++;
 	}

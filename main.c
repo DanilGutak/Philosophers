@@ -6,7 +6,7 @@
 /*   By: dgutak <dgutak@student.42vienna.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/04 12:03:27 by dgutak            #+#    #+#             */
-/*   Updated: 2023/10/06 17:08:19 by dgutak           ###   ########.fr       */
+/*   Updated: 2023/10/08 18:24:11 by dgutak           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -64,23 +64,36 @@ int	init_phils(t_data *data, int argc, char **argv)
 
 	i = -1;
 	data->dead = 0;
+	data->full = 0;
 	if (parse_input(&(data->squad[0]), argc, argv) == 1)
 		return (1);
 	while (++i < data->squad[0].num_phil)
 	{
 		parse_input(&(data->squad[i]), argc, argv);
 		data->squad[i].dead = &data->dead;
+		data->squad[i].full = &data->full;
 		data->squad[i].id = i;
 		data->squad[i].times_eaten = 0;
 		data->squad[i].print_lock = &data->print_lock;
 		data->squad[i].eaten_lock = &data->eaten_lock;
-		pthread_mutex_init(&data->squad[i].r_fork, NULL);
+		if (pthread_mutex_init(&data->squad[i].r_fork, NULL) != 0)
+			return (destroy_forks(data->squad, i));
 		if (i != 0)
 			data->squad[i].l_fork = &data->squad[i - 1].r_fork;
-		printf("{%d} ", data->squad[i].id);
 	}
 	data->squad[0].l_fork = &data->squad[data->squad[0].num_phil - 1].r_fork;
-	printf("\n");
+	return (0);
+}
+
+int	create_mutexes(t_data *data)
+{
+	if (pthread_mutex_init(&data->print_lock, NULL) != 0)
+		return (error("mutex print_lock failed"));
+	if (pthread_mutex_init(&data->eaten_lock, NULL) != 0)
+	{
+		pthread_mutex_destroy(&data->eaten_lock);
+		return (error("mutex eaten_lock failed"));
+	}
 	return (0);
 }
 
@@ -88,21 +101,17 @@ int	main(int argc, char **argv)
 {
 	t_data		data;
 	t_philos	squad[200];
-	int			i;
 
 	data.squad = squad;
 	if (argc > 6 || argc < 5)
 		return (error("wrong num of args"));
 	if (check_argv(argv) == 1)
 		return (error("args are not numeric positive values without +"));
-	pthread_mutex_init(&data.print_lock, NULL);
-	pthread_mutex_init(&data.eaten_lock, NULL);
+	if (create_mutexes(&data) == 1)
+		return (1);
 	if (init_phils(&data, argc, argv) == 1)
 		return (1);
-	i = -1;
-	while (++i < data.squad[0].num_phil)
-	{
-		printf("{%ld} ", data.squad[i].time_die);
-	}
+	if (action(&data) == 1)
+		return (1);
 	return (0);
 }
