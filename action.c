@@ -6,7 +6,7 @@
 /*   By: dgutak <dgutak@student.42vienna.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/08 15:00:38 by dgutak            #+#    #+#             */
-/*   Updated: 2023/10/08 19:53:13 by dgutak           ###   ########.fr       */
+/*   Updated: 2023/10/08 21:29:53 by dgutak           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,34 +27,34 @@ void	sleep_improved(int time)
 }
 void	take_right_fork(t_philos *philos)
 {
+	pthread_mutex_lock(philos->eaten_lock);
 	if (*philos->dead != 1 && *philos->full != 1)
 	{
+		pthread_mutex_unlock(philos->eaten_lock);
 		pthread_mutex_lock(&philos->r_fork);
 		print_event(philos, "has taken a fork with right hand");
 	}
+	else
+		pthread_mutex_unlock(philos->eaten_lock);
 }
 void	take_left_fork(t_philos *philos)
 {
+	pthread_mutex_lock(philos->eaten_lock);
 	if (*philos->dead != 1 && *philos->full != 1)
 	{
+		pthread_mutex_unlock(philos->eaten_lock);
 		pthread_mutex_lock(philos->l_fork);
 		print_event(philos, "has taken a fork with left hand");
 	}
-}
-void	eat(t_philos *philos)
-{
-	if (philos->id % 2 == 0)
-	{
-		take_left_fork(philos);
-		take_right_fork(philos);
-	}
 	else
-	{
-		take_right_fork(philos);
-		take_left_fork(philos);
-	}
+		pthread_mutex_unlock(philos->eaten_lock);
+}
+void	eat_procedure(t_philos *philos)
+{
+	pthread_mutex_lock(philos->eaten_lock);
 	if (*philos->dead != 1 && *philos->full != 1)
 	{
+		pthread_mutex_unlock(philos->eaten_lock);
 		print_event(philos, "is eating");
 		pthread_mutex_lock(philos->eaten_lock);
 		philos->times_eaten++;
@@ -62,16 +62,39 @@ void	eat(t_philos *philos)
 		pthread_mutex_unlock(philos->eaten_lock);
 		sleep_improved(philos->time_eat);
 	}
-	pthread_mutex_unlock(philos->l_fork);
-	pthread_mutex_unlock(&philos->r_fork);
+	else
+		pthread_mutex_unlock(philos->eaten_lock);
+}
+void	eat(t_philos *philos)
+{
+	if (philos->id % 2 == 0)
+	{
+		take_left_fork(philos);
+		take_right_fork(philos);
+		eat_procedure(philos);
+		pthread_mutex_unlock(&philos->r_fork);
+		pthread_mutex_unlock(philos->l_fork);
+	}
+	else
+	{
+		take_right_fork(philos);
+		take_left_fork(philos);
+		eat_procedure(philos);
+		pthread_mutex_unlock(philos->l_fork);
+		pthread_mutex_unlock(&philos->r_fork);
+	}
 }
 void	sleeping(t_philos *philos)
 {
+	pthread_mutex_lock(philos->eaten_lock);
 	if (*philos->dead != 1 && *philos->full != 1)
 	{
+		pthread_mutex_unlock(philos->eaten_lock);
 		print_event(philos, "is sleeping");
 		sleep_improved(philos->time_sleep);
 	}
+	else
+		pthread_mutex_unlock(philos->eaten_lock);
 }
 void	*routine(void *s)
 {
@@ -81,15 +104,23 @@ void	*routine(void *s)
 	if (philos->num_phil == 1)
 	{
 		print_event(philos, "has taken a fork with right hand");
-		sleep_improved(philos->time_die);
-		return (NULL);
+		return (sleep_improved(philos->time_die), NULL);
 	}
+	pthread_mutex_lock(philos->eaten_lock);
 	while (*philos->dead != 1 && *philos->full != 1)
 	{
+		pthread_mutex_unlock(philos->eaten_lock);
 		eat(philos);
 		sleeping(philos);
+		pthread_mutex_lock(philos->eaten_lock);
 		if (*philos->dead != 1 && *philos->full != 1)
+		{
+			pthread_mutex_unlock(philos->eaten_lock);
 			print_event(philos, "is thinking");
+		}
+		else
+			pthread_mutex_unlock(philos->eaten_lock);
+		pthread_mutex_lock(philos->eaten_lock);
 	}
 	return (NULL);
 }
@@ -119,6 +150,9 @@ int	check_full(t_data *data)
 	}
 	if (flag == 1)
 	{
+		pthread_mutex_lock(&data->eaten_lock);
+		data->full = 1;
+		pthread_mutex_unlock(&data->eaten_lock);
 		pthread_mutex_lock(&data->print_lock);
 		printf("All philosphers are full!\n");
 		pthread_mutex_unlock(&data->print_lock);
@@ -143,8 +177,8 @@ int	check_death(t_data *data)
 	{
 		pthread_mutex_lock(&data->eaten_lock);
 		if (get_current_time()
-			- data->squad[i].time_last_eat >= data->squad[i].time_die)
-			return (print_event(&data->squad[i], "died."));
+			- data->squad[i].time_last_eat > data->squad[i].time_die)
+			return (data->dead = 1, print_event(&data->squad[i], "died."));
 		pthread_mutex_unlock(&data->eaten_lock);
 	}
 	return (0);
@@ -169,9 +203,9 @@ int	action(t_data *data)
 	while (1)
 	{
 		if (check_death(data) == 1)
-			return (data->dead = 1, 0);
+			return (0);
 		if (check_full(data) == 1)
-			return (data->full = 1, 0);
+			return (0);
 	}
 	return (0);
 }

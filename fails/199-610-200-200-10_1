@@ -1,0 +1,2648 @@
+==0== Philosopher [0] has taken a fork with left hand
+==0== Philosopher [0] has taken a fork with right hand
+==0== Philosopher [0] is eating
+==0== Philosopher [1] has taken a fork with right hand
+==0== Philosopher [3] has taken a fork with right hand
+==0== Philosopher [3] has taken a fork with left hand
+==0== Philosopher [3] is eating
+==0== Philosopher [5] has taken a fork with right hand
+==0== Philosopher [5] has taken a fork with left hand
+==0== Philosopher [5] is eating
+==0== Philosopher [7] has taken a fork with right hand
+==0== Philosopher [7] has taken a fork with left hand
+==0== Philosopher [7] is eating
+==0== Philosopher [9] has taken a fork with right hand
+==0== Philosopher [9] has taken a fork with left hand
+==0== Philosopher [9] is eating
+==0== Philosopher [11] has taken a fork with right hand
+==0== Philosopher [11] has taken a fork with left hand
+==0== Philosopher [11] is eating
+==0== Philosopher [13] has taken a fork with right hand
+==0== Philosopher [13] has taken a fork with left hand
+==0== Philosopher [13] is eating
+==0== Philosopher [15] has taken a fork with right hand
+==0== Philosopher [15] has taken a fork with left hand
+==0== Philosopher [15] is eating
+==0== Philosopher [17] has taken a fork with right hand
+==0== Philosopher [17] has taken a fork with left hand
+==0== Philosopher [17] is eating
+==0== Philosopher [19] has taken a fork with right hand
+==0== Philosopher [19] has taken a fork with left hand
+==0== Philosopher [19] is eating
+==0== Philosopher [21] has taken a fork with right hand
+==0== Philosopher [21] has taken a fork with left hand
+==0== Philosopher [21] is eating
+==0== Philosopher [23] has taken a fork with right hand
+==0== Philosopher [23] has taken a fork with left hand
+==0== Philosopher [23] is eating
+==0== Philosopher [25] has taken a fork with right hand
+==0== Philosopher [25] has taken a fork with left hand
+==0== Philosopher [25] is eating
+==0== Philosopher [27] has taken a fork with right hand
+==0== Philosopher [27] has taken a fork with left hand
+==0== Philosopher [27] is eating
+==0== Philosopher [29] has taken a fork with right hand
+==0== Philosopher [29] has taken a fork with left hand
+==0== Philosopher [29] is eating
+==0== Philosopher [31] has taken a fork with right hand
+==0== Philosopher [31] has taken a fork with left hand
+==0== Philosopher [31] is eating
+==0== Philosopher [33] has taken a fork with right hand
+==0== Philosopher [33] has taken a fork with left hand
+==0== Philosopher [33] is eating
+==0== Philosopher [35] has taken a fork with right hand
+==0== Philosopher [35] has taken a fork with left hand
+==0== Philosopher [35] is eating
+==0== Philosopher [37] has taken a fork with right hand
+==0== Philosopher [37] has taken a fork with left hand
+==0== Philosopher [37] is eating
+==0== Philosopher [39] has taken a fork with right hand
+==0== Philosopher [39] has taken a fork with left hand
+==0== Philosopher [39] is eating
+==0== Philosopher [41] has taken a fork with right hand
+==0== Philosopher [41] has taken a fork with left hand
+==0== Philosopher [41] is eating
+==0== Philosopher [43] has taken a fork with right hand
+==0== Philosopher [43] has taken a fork with left hand
+==0== Philosopher [43] is eating
+==0== Philosopher [45] has taken a fork with right hand
+==0== Philosopher [45] has taken a fork with left hand
+==0== Philosopher [45] is eating
+==0== Philosopher [47] has taken a fork with right hand
+==0== Philosopher [47] has taken a fork with left hand
+==0== Philosopher [47] is eating
+==0== Philosopher [49] has taken a fork with right hand
+==0== Philosopher [49] has taken a fork with left hand
+==0== Philosopher [49] is eating
+==0== Philosopher [51] has taken a fork with right hand
+==0== Philosopher [51] has taken a fork with left hand
+==0== Philosopher [51] is eating
+==0== Philosopher [53] has taken a fork with right hand
+==0== Philosopher [53] has taken a fork with left hand
+==0== Philosopher [53] is eating
+==0== Philosopher [55] has taken a fork with right hand
+==0== Philosopher [55] has taken a fork with left hand
+==0== Philosopher [55] is eating
+==0== Philosopher [57] has taken a fork with right hand
+==0== Philosopher [57] has taken a fork with left hand
+==0== Philosopher [57] is eating
+==0== Philosopher [59] has taken a fork with right hand
+==0== Philosopher [59] has taken a fork with left hand
+==0== Philosopher [59] is eating
+==0== Philosopher [61] has taken a fork with right hand
+==0== Philosopher [61] has taken a fork with left hand
+==0== Philosopher [61] is eating
+==0== Philosopher [63] has taken a fork with right hand
+==0== Philosopher [63] has taken a fork with left hand
+==0== Philosopher [63] is eating
+==0== Philosopher [65] has taken a fork with right hand
+==0== Philosopher [65] has taken a fork with left hand
+==0== Philosopher [65] is eating
+==0== Philosopher [67] has taken a fork with right hand
+==0== Philosopher [67] has taken a fork with left hand
+==0== Philosopher [67] is eating
+==0== Philosopher [69] has taken a fork with right hand
+==0== Philosopher [69] has taken a fork with left hand
+==0== Philosopher [69] is eating
+==0== Philosopher [71] has taken a fork with right hand
+==0== Philosopher [71] has taken a fork with left hand
+==0== Philosopher [71] is eating
+==0== Philosopher [73] has taken a fork with right hand
+==0== Philosopher [73] has taken a fork with left hand
+==0== Philosopher [73] is eating
+==0== Philosopher [75] has taken a fork with right hand
+==0== Philosopher [75] has taken a fork with left hand
+==0== Philosopher [75] is eating
+==0== Philosopher [77] has taken a fork with right hand
+==0== Philosopher [77] has taken a fork with left hand
+==0== Philosopher [77] is eating
+==0== Philosopher [79] has taken a fork with right hand
+==0== Philosopher [79] has taken a fork with left hand
+==0== Philosopher [79] is eating
+==0== Philosopher [81] has taken a fork with right hand
+==0== Philosopher [81] has taken a fork with left hand
+==0== Philosopher [81] is eating
+==0== Philosopher [83] has taken a fork with right hand
+==0== Philosopher [83] has taken a fork with left hand
+==0== Philosopher [83] is eating
+==0== Philosopher [85] has taken a fork with right hand
+==0== Philosopher [85] has taken a fork with left hand
+==0== Philosopher [85] is eating
+==0== Philosopher [87] has taken a fork with right hand
+==0== Philosopher [87] has taken a fork with left hand
+==0== Philosopher [87] is eating
+==0== Philosopher [89] has taken a fork with right hand
+==0== Philosopher [89] has taken a fork with left hand
+==0== Philosopher [89] is eating
+==0== Philosopher [91] has taken a fork with right hand
+==0== Philosopher [91] has taken a fork with left hand
+==0== Philosopher [91] is eating
+==0== Philosopher [93] has taken a fork with right hand
+==0== Philosopher [93] has taken a fork with left hand
+==0== Philosopher [93] is eating
+==0== Philosopher [95] has taken a fork with right hand
+==0== Philosopher [95] has taken a fork with left hand
+==0== Philosopher [95] is eating
+==0== Philosopher [97] has taken a fork with right hand
+==0== Philosopher [97] has taken a fork with left hand
+==0== Philosopher [97] is eating
+==0== Philosopher [99] has taken a fork with right hand
+==0== Philosopher [99] has taken a fork with left hand
+==0== Philosopher [99] is eating
+==0== Philosopher [101] has taken a fork with right hand
+==0== Philosopher [101] has taken a fork with left hand
+==0== Philosopher [101] is eating
+==0== Philosopher [103] has taken a fork with right hand
+==0== Philosopher [103] has taken a fork with left hand
+==0== Philosopher [103] is eating
+==0== Philosopher [105] has taken a fork with right hand
+==0== Philosopher [105] has taken a fork with left hand
+==0== Philosopher [105] is eating
+==0== Philosopher [107] has taken a fork with right hand
+==0== Philosopher [107] has taken a fork with left hand
+==0== Philosopher [107] is eating
+==0== Philosopher [109] has taken a fork with right hand
+==0== Philosopher [109] has taken a fork with left hand
+==0== Philosopher [109] is eating
+==0== Philosopher [111] has taken a fork with right hand
+==0== Philosopher [111] has taken a fork with left hand
+==0== Philosopher [111] is eating
+==1== Philosopher [113] has taken a fork with right hand
+==1== Philosopher [113] has taken a fork with left hand
+==1== Philosopher [113] is eating
+==0== Philosopher [115] has taken a fork with right hand
+==0== Philosopher [115] has taken a fork with left hand
+==0== Philosopher [115] is eating
+==0== Philosopher [117] has taken a fork with right hand
+==0== Philosopher [117] has taken a fork with left hand
+==0== Philosopher [117] is eating
+==0== Philosopher [119] has taken a fork with right hand
+==0== Philosopher [119] has taken a fork with left hand
+==0== Philosopher [119] is eating
+==0== Philosopher [121] has taken a fork with right hand
+==0== Philosopher [121] has taken a fork with left hand
+==0== Philosopher [121] is eating
+==0== Philosopher [123] has taken a fork with right hand
+==0== Philosopher [123] has taken a fork with left hand
+==0== Philosopher [123] is eating
+==0== Philosopher [125] has taken a fork with right hand
+==0== Philosopher [125] has taken a fork with left hand
+==0== Philosopher [125] is eating
+==0== Philosopher [127] has taken a fork with right hand
+==0== Philosopher [127] has taken a fork with left hand
+==0== Philosopher [127] is eating
+==0== Philosopher [129] has taken a fork with right hand
+==0== Philosopher [129] has taken a fork with left hand
+==0== Philosopher [129] is eating
+==0== Philosopher [131] has taken a fork with right hand
+==0== Philosopher [131] has taken a fork with left hand
+==0== Philosopher [131] is eating
+==0== Philosopher [133] has taken a fork with right hand
+==0== Philosopher [133] has taken a fork with left hand
+==0== Philosopher [133] is eating
+==0== Philosopher [135] has taken a fork with right hand
+==0== Philosopher [135] has taken a fork with left hand
+==0== Philosopher [135] is eating
+==0== Philosopher [137] has taken a fork with right hand
+==0== Philosopher [137] has taken a fork with left hand
+==0== Philosopher [137] is eating
+==0== Philosopher [139] has taken a fork with right hand
+==0== Philosopher [139] has taken a fork with left hand
+==0== Philosopher [139] is eating
+==0== Philosopher [141] has taken a fork with right hand
+==0== Philosopher [141] has taken a fork with left hand
+==0== Philosopher [141] is eating
+==0== Philosopher [143] has taken a fork with right hand
+==0== Philosopher [143] has taken a fork with left hand
+==0== Philosopher [143] is eating
+==0== Philosopher [145] has taken a fork with right hand
+==0== Philosopher [145] has taken a fork with left hand
+==0== Philosopher [145] is eating
+==0== Philosopher [147] has taken a fork with right hand
+==0== Philosopher [147] has taken a fork with left hand
+==0== Philosopher [147] is eating
+==0== Philosopher [149] has taken a fork with right hand
+==0== Philosopher [149] has taken a fork with left hand
+==0== Philosopher [149] is eating
+==0== Philosopher [151] has taken a fork with right hand
+==0== Philosopher [151] has taken a fork with left hand
+==0== Philosopher [151] is eating
+==0== Philosopher [154] has taken a fork with left hand
+==0== Philosopher [154] has taken a fork with right hand
+==0== Philosopher [154] is eating
+==0== Philosopher [155] has taken a fork with right hand
+==0== Philosopher [157] has taken a fork with right hand
+==0== Philosopher [157] has taken a fork with left hand
+==0== Philosopher [157] is eating
+==0== Philosopher [159] has taken a fork with right hand
+==0== Philosopher [159] has taken a fork with left hand
+==0== Philosopher [159] is eating
+==0== Philosopher [161] has taken a fork with right hand
+==0== Philosopher [161] has taken a fork with left hand
+==0== Philosopher [161] is eating
+==0== Philosopher [163] has taken a fork with right hand
+==0== Philosopher [163] has taken a fork with left hand
+==0== Philosopher [163] is eating
+==0== Philosopher [165] has taken a fork with right hand
+==0== Philosopher [165] has taken a fork with left hand
+==0== Philosopher [165] is eating
+==0== Philosopher [167] has taken a fork with right hand
+==0== Philosopher [167] has taken a fork with left hand
+==0== Philosopher [167] is eating
+==0== Philosopher [169] has taken a fork with right hand
+==0== Philosopher [169] has taken a fork with left hand
+==0== Philosopher [169] is eating
+==0== Philosopher [171] has taken a fork with right hand
+==0== Philosopher [171] has taken a fork with left hand
+==0== Philosopher [171] is eating
+==0== Philosopher [173] has taken a fork with right hand
+==0== Philosopher [173] has taken a fork with left hand
+==0== Philosopher [173] is eating
+==0== Philosopher [175] has taken a fork with right hand
+==0== Philosopher [175] has taken a fork with left hand
+==0== Philosopher [175] is eating
+==0== Philosopher [177] has taken a fork with right hand
+==0== Philosopher [177] has taken a fork with left hand
+==0== Philosopher [177] is eating
+==0== Philosopher [179] has taken a fork with right hand
+==0== Philosopher [179] has taken a fork with left hand
+==0== Philosopher [179] is eating
+==0== Philosopher [181] has taken a fork with right hand
+==0== Philosopher [181] has taken a fork with left hand
+==0== Philosopher [181] is eating
+==0== Philosopher [183] has taken a fork with right hand
+==0== Philosopher [183] has taken a fork with left hand
+==0== Philosopher [183] is eating
+==0== Philosopher [185] has taken a fork with right hand
+==0== Philosopher [185] has taken a fork with left hand
+==0== Philosopher [185] is eating
+==0== Philosopher [187] has taken a fork with right hand
+==0== Philosopher [187] has taken a fork with left hand
+==0== Philosopher [187] is eating
+==0== Philosopher [189] has taken a fork with right hand
+==0== Philosopher [189] has taken a fork with left hand
+==0== Philosopher [189] is eating
+==0== Philosopher [191] has taken a fork with right hand
+==0== Philosopher [191] has taken a fork with left hand
+==0== Philosopher [191] is eating
+==0== Philosopher [193] has taken a fork with right hand
+==0== Philosopher [193] has taken a fork with left hand
+==0== Philosopher [193] is eating
+==0== Philosopher [195] has taken a fork with right hand
+==0== Philosopher [195] has taken a fork with left hand
+==0== Philosopher [195] is eating
+==0== Philosopher [197] has taken a fork with right hand
+==0== Philosopher [197] has taken a fork with left hand
+==0== Philosopher [197] is eating
+==200== Philosopher [5] is sleeping
+==200== Philosopher [4] has taken a fork with left hand
+==200== Philosopher [1] has taken a fork with left hand
+==200== Philosopher [3] is sleeping
+==200== Philosopher [1] is eating
+==200== Philosopher [6] has taken a fork with left hand
+==200== Philosopher [0] is sleeping
+==200== Philosopher [4] has taken a fork with right hand
+==200== Philosopher [4] is eating
+==200== Philosopher [11] is sleeping
+==200== Philosopher [7] is sleeping
+==200== Philosopher [12] has taken a fork with left hand
+==200== Philosopher [9] is sleeping
+==200== Philosopher [10] has taken a fork with left hand
+==200== Philosopher [8] has taken a fork with left hand
+==200== Philosopher [10] has taken a fork with right hand
+==200== Philosopher [8] has taken a fork with right hand
+==200== Philosopher [10] is eating
+==200== Philosopher [8] is eating
+==200== Philosopher [6] has taken a fork with right hand
+==200== Philosopher [6] is eating
+==200== Philosopher [13] is sleeping
+==200== Philosopher [81] is sleeping
+==200== Philosopher [85] is sleeping
+==200== Philosopher [91] is sleeping
+==200== Philosopher [57] is sleeping
+==200== Philosopher [53] is sleeping
+==200== Philosopher [86] has taken a fork with left hand
+==200== Philosopher [96] has taken a fork with left hand
+==200== Philosopher [58] has taken a fork with left hand
+==200== Philosopher [25] is sleeping
+==200== Philosopher [110] has taken a fork with left hand
+==200== Philosopher [22] has taken a fork with left hand
+==200== Philosopher [54] has taken a fork with left hand
+==200== Philosopher [61] is sleeping
+==200== Philosopher [26] has taken a fork with left hand
+==200== Philosopher [35] is sleeping
+==200== Philosopher [80] has taken a fork with left hand
+==200== Philosopher [17] is sleeping
+==200== Philosopher [99] is sleeping
+==200== Philosopher [21] is sleeping
+==200== Philosopher [66] has taken a fork with left hand
+==200== Philosopher [80] has taken a fork with right hand
+==200== Philosopher [73] is sleeping
+==200== Philosopher [37] is sleeping
+==200== Philosopher [102] has taken a fork with left hand
+==200== Philosopher [39] is sleeping
+==200== Philosopher [102] has taken a fork with right hand
+==200== Philosopher [102] is eating
+==200== Philosopher [41] is sleeping
+==200== Philosopher [40] has taken a fork with left hand
+==200== Philosopher [40] has taken a fork with right hand
+==200== Philosopher [40] is eating
+==200== Philosopher [92] has taken a fork with left hand
+==200== Philosopher [76] has taken a fork with left hand
+==200== Philosopher [45] is sleeping
+==200== Philosopher [76] has taken a fork with right hand
+==200== Philosopher [18] has taken a fork with left hand
+==200== Philosopher [76] is eating
+==200== Philosopher [59] is sleeping
+==200== Philosopher [80] is eating
+==200== Philosopher [82] has taken a fork with left hand
+==200== Philosopher [51] is sleeping
+==200== Philosopher [38] has taken a fork with left hand
+==200== Philosopher [65] is sleeping
+==200== Philosopher [38] has taken a fork with right hand
+==200== Philosopher [82] has taken a fork with right hand
+==200== Philosopher [82] is eating
+==200== Philosopher [38] is eating
+==200== Philosopher [106] has taken a fork with left hand
+==200== Philosopher [43] is sleeping
+==200== Philosopher [106] has taken a fork with right hand
+==200== Philosopher [106] is eating
+==200== Philosopher [14] has taken a fork with left hand
+==200== Philosopher [62] has taken a fork with left hand
+==200== Philosopher [100] has taken a fork with left hand
+==200== Philosopher [14] has taken a fork with right hand
+==200== Philosopher [62] has taken a fork with right hand
+==200== Philosopher [14] is eating
+==200== Philosopher [100] has taken a fork with right hand
+==200== Philosopher [62] is eating
+==200== Philosopher [60] has taken a fork with left hand
+==200== Philosopher [27] is sleeping
+==200== Philosopher [47] is sleeping
+==200== Philosopher [60] has taken a fork with right hand
+==200== Philosopher [52] has taken a fork with left hand
+==200== Philosopher [84] has taken a fork with left hand
+==200== Philosopher [52] has taken a fork with right hand
+==200== Philosopher [84] has taken a fork with right hand
+==200== Philosopher [52] is eating
+==200== Philosopher [95] is sleeping
+==200== Philosopher [84] is eating
+==200== Philosopher [28] has taken a fork with left hand
+==200== Philosopher [111] is sleeping
+==200== Philosopher [28] has taken a fork with right hand
+==200== Philosopher [28] is eating
+==200== Philosopher [44] has taken a fork with left hand
+==200== Philosopher [16] has taken a fork with left hand
+==200== Philosopher [33] is sleeping
+==200== Philosopher [44] has taken a fork with right hand
+==200== Philosopher [44] is eating
+==200== Philosopher [16] has taken a fork with right hand
+==200== Philosopher [20] has taken a fork with left hand
+==200== Philosopher [93] is sleeping
+==200== Philosopher [20] has taken a fork with right hand
+==200== Philosopher [20] is eating
+==200== Philosopher [34] has taken a fork with left hand
+==200== Philosopher [34] has taken a fork with right hand
+==200== Philosopher [34] is eating
+==200== Philosopher [69] is sleeping
+==200== Philosopher [56] has taken a fork with left hand
+==200== Philosopher [56] has taken a fork with right hand
+==200== Philosopher [56] is eating
+==200== Philosopher [50] has taken a fork with left hand
+==200== Philosopher [50] has taken a fork with right hand
+==200== Philosopher [50] is eating
+==200== Philosopher [89] is sleeping
+==200== Philosopher [79] is sleeping
+==200== Philosopher [32] has taken a fork with left hand
+==200== Philosopher [32] has taken a fork with right hand
+==200== Philosopher [32] is eating
+==200== Philosopher [110] has taken a fork with right hand
+==200== Philosopher [110] is eating
+==200== Philosopher [26] has taken a fork with right hand
+==200== Philosopher [26] is eating
+==201== Philosopher [12] has taken a fork with right hand
+==201== Philosopher [12] is eating
+==200== Philosopher [66] has taken a fork with right hand
+==200== Philosopher [66] is eating
+==200== Philosopher [94] has taken a fork with left hand
+==200== Philosopher [94] has taken a fork with right hand
+==200== Philosopher [94] is eating
+==200== Philosopher [22] has taken a fork with right hand
+==200== Philosopher [22] is eating
+==200== Philosopher [67] is sleeping
+==200== Philosopher [90] has taken a fork with left hand
+==200== Philosopher [90] has taken a fork with right hand
+==200== Philosopher [90] is eating
+==200== Philosopher [70] has taken a fork with left hand
+==200== Philosopher [70] has taken a fork with right hand
+==200== Philosopher [70] is eating
+==200== Philosopher [97] is sleeping
+==200== Philosopher [107] is sleeping
+==200== Philosopher [96] has taken a fork with right hand
+==200== Philosopher [68] has taken a fork with left hand
+==200== Philosopher [96] is eating
+==200== Philosopher [68] has taken a fork with right hand
+==200== Philosopher [29] is sleeping
+==200== Philosopher [86] has taken a fork with right hand
+==200== Philosopher [86] is eating
+==200== Philosopher [78] has taken a fork with left hand
+==200== Philosopher [98] has taken a fork with left hand
+==200== Philosopher [78] has taken a fork with right hand
+==200== Philosopher [98] has taken a fork with right hand
+==200== Philosopher [78] is eating
+==200== Philosopher [98] is eating
+==200== Philosopher [108] has taken a fork with left hand
+==200== Philosopher [30] has taken a fork with left hand
+==200== Philosopher [108] has taken a fork with right hand
+==200== Philosopher [30] has taken a fork with right hand
+==200== Philosopher [64] has taken a fork with left hand
+==200== Philosopher [108] is eating
+==200== Philosopher [104] has taken a fork with left hand
+==200== Philosopher [104] has taken a fork with right hand
+==200== Philosopher [104] is eating
+==200== Philosopher [109] is sleeping
+==200== Philosopher [64] has taken a fork with right hand
+==200== Philosopher [64] is eating
+==200== Philosopher [75] is sleeping
+==200== Philosopher [58] has taken a fork with right hand
+==200== Philosopher [58] is eating
+==200== Philosopher [92] has taken a fork with right hand
+==200== Philosopher [92] is eating
+==200== Philosopher [46] has taken a fork with left hand
+==200== Philosopher [46] has taken a fork with right hand
+==200== Philosopher [46] is eating
+==200== Philosopher [18] has taken a fork with right hand
+==200== Philosopher [18] is eating
+==200== Philosopher [36] has taken a fork with left hand
+==200== Philosopher [36] has taken a fork with right hand
+==200== Philosopher [36] is eating
+==200== Philosopher [105] is sleeping
+==200== Philosopher [42] has taken a fork with left hand
+==200== Philosopher [42] has taken a fork with right hand
+==200== Philosopher [42] is eating
+==200== Philosopher [55] is sleeping
+==200== Philosopher [23] is sleeping
+==200== Philosopher [100] is eating
+==200== Philosopher [72] has taken a fork with left hand
+==200== Philosopher [72] has taken a fork with right hand
+==200== Philosopher [72] is eating
+==200== Philosopher [15] is sleeping
+==200== Philosopher [83] is sleeping
+==200== Philosopher [60] is eating
+==200== Philosopher [19] is sleeping
+==200== Philosopher [49] is sleeping
+==200== Philosopher [48] has taken a fork with left hand
+==200== Philosopher [48] has taken a fork with right hand
+==200== Philosopher [48] is eating
+==200== Philosopher [24] has taken a fork with left hand
+==200== Philosopher [24] has taken a fork with right hand
+==200== Philosopher [24] is eating
+==200== Philosopher [74] has taken a fork with left hand
+==200== Philosopher [74] has taken a fork with right hand
+==200== Philosopher [74] is eating
+==200== Philosopher [31] is sleeping
+==200== Philosopher [16] is eating
+==200== Philosopher [54] has taken a fork with right hand
+==200== Philosopher [54] is eating
+==200== Philosopher [112] has taken a fork with left hand
+==200== Philosopher [77] is sleeping
+==200== Philosopher [68] is eating
+==200== Philosopher [87] is sleeping
+==200== Philosopher [63] is sleeping
+==200== Philosopher [88] has taken a fork with left hand
+==200== Philosopher [88] has taken a fork with right hand
+==200== Philosopher [88] is eating
+==200== Philosopher [30] is eating
+==200== Philosopher [103] is sleeping
+==200== Philosopher [71] is sleeping
+==200== Philosopher [101] is sleeping
+==200== Philosopher [119] is sleeping
+==200== Philosopher [121] is sleeping
+==200== Philosopher [154] is sleeping
+==200== Philosopher [122] has taken a fork with left hand
+==200== Philosopher [155] has taken a fork with left hand
+==200== Philosopher [155] is eating
+==200== Philosopher [153] has taken a fork with right hand
+==200== Philosopher [153] has taken a fork with left hand
+==200== Philosopher [153] is eating
+==200== Philosopher [120] has taken a fork with left hand
+==200== Philosopher [120] has taken a fork with right hand
+==200== Philosopher [120] is eating
+==200== Philosopher [118] has taken a fork with left hand
+==200== Philosopher [118] has taken a fork with right hand
+==200== Philosopher [118] is eating
+==200== Philosopher [145] is sleeping
+==200== Philosopher [146] has taken a fork with left hand
+==200== Philosopher [115] is sleeping
+==200== Philosopher [125] is sleeping
+==200== Philosopher [149] is sleeping
+==200== Philosopher [136] has taken a fork with left hand
+==200== Philosopher [147] is sleeping
+==200== Philosopher [130] has taken a fork with left hand
+==200== Philosopher [148] has taken a fork with left hand
+==200== Philosopher [146] has taken a fork with right hand
+==200== Philosopher [122] has taken a fork with right hand
+==200== Philosopher [123] is sleeping
+==200== Philosopher [133] is sleeping
+==200== Philosopher [124] has taken a fork with left hand
+==200== Philosopher [143] is sleeping
+==200== Philosopher [131] is sleeping
+==200== Philosopher [134] has taken a fork with left hand
+==200== Philosopher [116] has taken a fork with left hand
+==200== Philosopher [146] is eating
+==200== Philosopher [127] is sleeping
+==200== Philosopher [134] has taken a fork with right hand
+==200== Philosopher [129] is sleeping
+==200== Philosopher [122] is eating
+==200== Philosopher [134] is eating
+==200== Philosopher [140] has taken a fork with left hand
+==200== Philosopher [141] is sleeping
+==200== Philosopher [140] has taken a fork with right hand
+==200== Philosopher [132] has taken a fork with left hand
+==200== Philosopher [144] has taken a fork with left hand
+==200== Philosopher [140] is eating
+==200== Philosopher [116] has taken a fork with right hand
+==200== Philosopher [117] is sleeping
+==200== Philosopher [124] has taken a fork with right hand
+==200== Philosopher [137] is sleeping
+==200== Philosopher [136] has taken a fork with right hand
+==200== Philosopher [124] is eating
+==200== Philosopher [150] has taken a fork with left hand
+==200== Philosopher [136] is eating
+==200== Philosopher [142] has taken a fork with left hand
+==200== Philosopher [142] has taken a fork with right hand
+==200== Philosopher [148] has taken a fork with right hand
+==200== Philosopher [116] is eating
+==200== Philosopher [144] has taken a fork with right hand
+==200== Philosopher [138] has taken a fork with left hand
+==200== Philosopher [144] is eating
+==200== Philosopher [148] is eating
+==200== Philosopher [138] has taken a fork with right hand
+==200== Philosopher [135] is sleeping
+==200== Philosopher [138] is eating
+==200== Philosopher [142] is eating
+==200== Philosopher [132] has taken a fork with right hand
+==200== Philosopher [132] is eating
+==200== Philosopher [139] is sleeping
+==200== Philosopher [130] has taken a fork with right hand
+==200== Philosopher [130] is eating
+==200== Philosopher [151] is sleeping
+==200== Philosopher [150] has taken a fork with right hand
+==200== Philosopher [152] has taken a fork with left hand
+==200== Philosopher [150] is eating
+==201== Philosopher [113] is sleeping
+==201== Philosopher [114] has taken a fork with left hand
+==201== Philosopher [112] has taken a fork with right hand
+==201== Philosopher [114] has taken a fork with right hand
+==201== Philosopher [112] is eating
+==201== Philosopher [114] is eating
+==200== Philosopher [126] has taken a fork with left hand
+==200== Philosopher [126] has taken a fork with right hand
+==200== Philosopher [126] is eating
+==200== Philosopher [128] has taken a fork with left hand
+==200== Philosopher [128] has taken a fork with right hand
+==200== Philosopher [128] is eating
+==200== Philosopher [157] is sleeping
+==200== Philosopher [175] is sleeping
+==200== Philosopher [174] has taken a fork with left hand
+==200== Philosopher [158] has taken a fork with left hand
+==200== Philosopher [174] has taken a fork with right hand
+==200== Philosopher [167] is sleeping
+==200== Philosopher [176] has taken a fork with left hand
+==200== Philosopher [173] is sleeping
+==200== Philosopher [174] is eating
+==200== Philosopher [168] has taken a fork with left hand
+==200== Philosopher [189] is sleeping
+==200== Philosopher [182] has taken a fork with left hand
+==200== Philosopher [190] has taken a fork with left hand
+==200== Philosopher [163] is sleeping
+==200== Philosopher [185] is sleeping
+==200== Philosopher [188] has taken a fork with left hand
+==200== Philosopher [179] is sleeping
+==200== Philosopher [194] has taken a fork with left hand
+==200== Philosopher [184] has taken a fork with left hand
+==200== Philosopher [186] has taken a fork with left hand
+==200== Philosopher [184] has taken a fork with right hand
+==200== Philosopher [183] is sleeping
+==200== Philosopher [182] has taken a fork with right hand
+==200== Philosopher [180] has taken a fork with left hand
+==200== Philosopher [182] is eating
+==200== Philosopher [164] has taken a fork with left hand
+==200== Philosopher [194] has taken a fork with right hand
+==200== Philosopher [164] has taken a fork with right hand
+==200== Philosopher [194] is eating
+==200== Philosopher [188] has taken a fork with right hand
+==200== Philosopher [164] is eating
+==200== Philosopher [186] has taken a fork with right hand
+==200== Philosopher [184] is eating
+==200== Philosopher [186] is eating
+==200== Philosopher [181] is sleeping
+==200== Philosopher [193] is sleeping
+==200== Philosopher [166] has taken a fork with left hand
+==200== Philosopher [187] is sleeping
+==200== Philosopher [180] has taken a fork with right hand
+==200== Philosopher [165] is sleeping
+==200== Philosopher [195] is sleeping
+==200== Philosopher [188] is eating
+==200== Philosopher [166] has taken a fork with right hand
+==200== Philosopher [180] is eating
+==200== Philosopher [166] is eating
+==200== Philosopher [196] has taken a fork with left hand
+==200== Philosopher [197] is sleeping
+==200== Philosopher [196] has taken a fork with right hand
+==200== Philosopher [196] is eating
+==200== Philosopher [169] is sleeping
+==200== Philosopher [198] has taken a fork with left hand
+==200== Philosopher [168] has taken a fork with right hand
+==200== Philosopher [198] has taken a fork with right hand
+==200== Philosopher [177] is sleeping
+==200== Philosopher [191] is sleeping
+==200== Philosopher [171] is sleeping
+==200== Philosopher [170] has taken a fork with left hand
+==200== Philosopher [170] has taken a fork with right hand
+==200== Philosopher [192] has taken a fork with left hand
+==200== Philosopher [168] is eating
+==200== Philosopher [161] is sleeping
+==200== Philosopher [192] has taken a fork with right hand
+==200== Philosopher [159] is sleeping
+==200== Philosopher [176] has taken a fork with right hand
+==200== Philosopher [160] has taken a fork with left hand
+==200== Philosopher [198] is eating
+==200== Philosopher [172] has taken a fork with left hand
+==200== Philosopher [178] has taken a fork with left hand
+==200== Philosopher [192] is eating
+==200== Philosopher [170] is eating
+==200== Philosopher [162] has taken a fork with left hand
+==200== Philosopher [176] is eating
+==200== Philosopher [162] has taken a fork with right hand
+==200== Philosopher [162] is eating
+==200== Philosopher [172] has taken a fork with right hand
+==200== Philosopher [172] is eating
+==200== Philosopher [178] has taken a fork with right hand
+==200== Philosopher [178] is eating
+==200== Philosopher [160] has taken a fork with right hand
+==200== Philosopher [160] is eating
+==200== Philosopher [158] has taken a fork with right hand
+==200== Philosopher [158] is eating
+==200== Philosopher [190] has taken a fork with right hand
+==200== Philosopher [190] is eating
+==400== Philosopher [4] is sleeping
+==400== Philosopher [11] is thinking
+==400== Philosopher [8] is sleeping
+==400== Philosopher [1] is sleeping
+==400== Philosopher [7] is thinking
+==400== Philosopher [2] has taken a fork with left hand
+==400== Philosopher [3] is thinking
+==400== Philosopher [10] is sleeping
+==400== Philosopher [6] is sleeping
+==400== Philosopher [0] is thinking
+==400== Philosopher [9] is thinking
+==400== Philosopher [7] has taken a fork with right hand
+==400== Philosopher [9] has taken a fork with right hand
+==400== Philosopher [7] has taken a fork with left hand
+==400== Philosopher [9] has taken a fork with left hand
+==400== Philosopher [3] has taken a fork with right hand
+==400== Philosopher [5] is thinking
+==400== Philosopher [5] has taken a fork with right hand
+==400== Philosopher [7] is eating
+==400== Philosopher [5] has taken a fork with left hand
+==400== Philosopher [5] is eating
+==400== Philosopher [9] is eating
+==400== Philosopher [2] has taken a fork with right hand
+==400== Philosopher [2] is eating
+==400== Philosopher [29] is thinking
+==400== Philosopher [76] is sleeping
+==400== Philosopher [60] is sleeping
+==400== Philosopher [103] is thinking
+==400== Philosopher [16] is sleeping
+==400== Philosopher [61] is thinking
+==400== Philosopher [100] is sleeping
+==400== Philosopher [106] is sleeping
+==400== Philosopher [101] is thinking
+==400== Philosopher [52] is sleeping
+==400== Philosopher [32] is sleeping
+==400== Philosopher [28] is sleeping
+==400== Philosopher [38] is sleeping
+==400== Philosopher [19] is thinking
+==400== Philosopher [108] is sleeping
+==400== Philosopher [92] is sleeping
+==401== Philosopher [12] is sleeping
+==400== Philosopher [27] is thinking
+==400== Philosopher [23] is thinking
+==400== Philosopher [24] is sleeping
+==400== Philosopher [98] is sleeping
+==400== Philosopher [75] is thinking
+==400== Philosopher [74] is sleeping
+==400== Philosopher [23] has taken a fork with right hand
+==400== Philosopher [59] is thinking
+==400== Philosopher [27] has taken a fork with right hand
+==400== Philosopher [97] is thinking
+==400== Philosopher [75] has taken a fork with right hand
+==400== Philosopher [65] is thinking
+==400== Philosopher [26] is sleeping
+==400== Philosopher [82] is sleeping
+==400== Philosopher [56] is sleeping
+==400== Philosopher [97] has taken a fork with right hand
+==400== Philosopher [88] is sleeping
+==400== Philosopher [62] is sleeping
+==400== Philosopher [79] is thinking
+==400== Philosopher [78] is sleeping
+==400== Philosopher [103] has taken a fork with right hand
+==400== Philosopher [71] is thinking
+==400== Philosopher [54] is sleeping
+==400== Philosopher [61] has taken a fork with right hand
+==400== Philosopher [33] is thinking
+==400== Philosopher [59] has taken a fork with right hand
+==400== Philosopher [81] is thinking
+==400== Philosopher [44] is sleeping
+==400== Philosopher [84] is sleeping
+==400== Philosopher [94] is sleeping
+==400== Philosopher [48] is sleeping
+==400== Philosopher [65] has taken a fork with right hand
+==400== Philosopher [81] has taken a fork with right hand
+==400== Philosopher [111] is thinking
+==400== Philosopher [36] is sleeping
+==400== Philosopher [68] is sleeping
+==400== Philosopher [27] has taken a fork with left hand
+==400== Philosopher [45] is thinking
+==400== Philosopher [110] is sleeping
+==400== Philosopher [86] is sleeping
+==400== Philosopher [66] is sleeping
+==400== Philosopher [27] is eating
+==401== Philosopher [11] has taken a fork with right hand
+==400== Philosopher [77] is thinking
+==400== Philosopher [19] has taken a fork with right hand
+==400== Philosopher [107] is thinking
+==400== Philosopher [63] is thinking
+==400== Philosopher [99] is thinking
+==400== Philosopher [77] has taken a fork with right hand
+==400== Philosopher [46] is sleeping
+==400== Philosopher [61] has taken a fork with left hand
+==400== Philosopher [79] has taken a fork with right hand
+==400== Philosopher [45] has taken a fork with right hand
+==400== Philosopher [99] has taken a fork with right hand
+==400== Philosopher [77] has taken a fork with left hand
+==400== Philosopher [79] has taken a fork with left hand
+==400== Philosopher [96] is sleeping
+==400== Philosopher [45] has taken a fork with left hand
+==400== Philosopher [35] is thinking
+==400== Philosopher [99] has taken a fork with left hand
+==400== Philosopher [22] is sleeping
+==400== Philosopher [45] is eating
+==400== Philosopher [81] has taken a fork with left hand
+==400== Philosopher [35] has taken a fork with right hand
+==400== Philosopher [33] has taken a fork with right hand
+==400== Philosopher [42] is sleeping
+==400== Philosopher [97] has taken a fork with left hand
+==400== Philosopher [50] is sleeping
+==400== Philosopher [53] is thinking
+==400== Philosopher [97] is eating
+==400== Philosopher [33] has taken a fork with left hand
+==400== Philosopher [83] is thinking
+==400== Philosopher [40] is sleeping
+==400== Philosopher [13] is thinking
+==400== Philosopher [109] is thinking
+==400== Philosopher [83] has taken a fork with right hand
+==400== Philosopher [59] has taken a fork with left hand
+==400== Philosopher [80] is sleeping
+==400== Philosopher [109] has taken a fork with right hand
+==400== Philosopher [14] is sleeping
+==400== Philosopher [107] has taken a fork with right hand
+==400== Philosopher [61] is eating
+==400== Philosopher [87] is thinking
+==400== Philosopher [90] is sleeping
+==400== Philosopher [55] is thinking
+==400== Philosopher [20] is sleeping
+==400== Philosopher [87] has taken a fork with right hand
+==400== Philosopher [64] is sleeping
+==400== Philosopher [91] is thinking
+==400== Philosopher [75] has taken a fork with left hand
+==400== Philosopher [63] has taken a fork with right hand
+==400== Philosopher [34] is sleeping
+==400== Philosopher [87] has taken a fork with left hand
+==400== Philosopher [35] has taken a fork with left hand
+==400== Philosopher [63] has taken a fork with left hand
+==400== Philosopher [99] is eating
+==400== Philosopher [30] is sleeping
+==400== Philosopher [67] is thinking
+==400== Philosopher [53] has taken a fork with right hand
+==400== Philosopher [37] is thinking
+==400== Philosopher [67] has taken a fork with right hand
+==400== Philosopher [53] has taken a fork with left hand
+==400== Philosopher [29] has taken a fork with right hand
+==400== Philosopher [104] is sleeping
+==400== Philosopher [53] is eating
+==400== Philosopher [89] is thinking
+==400== Philosopher [37] has taken a fork with right hand
+==400== Philosopher [33] is eating
+==400== Philosopher [70] is sleeping
+==401== Philosopher [11] has taken a fork with left hand
+==400== Philosopher [23] has taken a fork with left hand
+==400== Philosopher [23] is eating
+==400== Philosopher [21] is thinking
+==400== Philosopher [59] is eating
+==400== Philosopher [83] has taken a fork with left hand
+==400== Philosopher [109] has taken a fork with left hand
+==400== Philosopher [83] is eating
+==400== Philosopher [109] is eating
+==400== Philosopher [57] is thinking
+==400== Philosopher [39] is thinking
+==400== Philosopher [57] has taken a fork with right hand
+==400== Philosopher [57] has taken a fork with left hand
+==400== Philosopher [65] has taken a fork with left hand
+==400== Philosopher [15] is thinking
+==400== Philosopher [65] is eating
+==400== Philosopher [15] has taken a fork with right hand
+==400== Philosopher [15] has taken a fork with left hand
+==400== Philosopher [55] has taken a fork with right hand
+==400== Philosopher [17] is thinking
+==400== Philosopher [55] has taken a fork with left hand
+==400== Philosopher [55] is eating
+==400== Philosopher [17] has taken a fork with right hand
+==400== Philosopher [91] has taken a fork with right hand
+==400== Philosopher [81] is eating
+==400== Philosopher [91] has taken a fork with left hand
+==400== Philosopher [75] is eating
+==400== Philosopher [41] is thinking
+==400== Philosopher [47] is thinking
+==400== Philosopher [79] is eating
+==400== Philosopher [47] has taken a fork with right hand
+==400== Philosopher [63] is eating
+==400== Philosopher [47] has taken a fork with left hand
+==400== Philosopher [47] is eating
+==400== Philosopher [95] is thinking
+==400== Philosopher [87] is eating
+==400== Philosopher [85] is thinking
+==400== Philosopher [85] has taken a fork with right hand
+==400== Philosopher [85] has taken a fork with left hand
+==400== Philosopher [49] is thinking
+==400== Philosopher [49] has taken a fork with right hand
+==400== Philosopher [49] has taken a fork with left hand
+==400== Philosopher [49] is eating
+==400== Philosopher [18] is sleeping
+==400== Philosopher [73] is thinking
+==400== Philosopher [73] has taken a fork with right hand
+==400== Philosopher [93] is thinking
+==400== Philosopher [93] has taken a fork with right hand
+==400== Philosopher [58] is sleeping
+==400== Philosopher [51] is thinking
+==400== Philosopher [51] has taken a fork with right hand
+==400== Philosopher [67] has taken a fork with left hand
+==400== Philosopher [51] has taken a fork with left hand
+==400== Philosopher [51] is eating
+==400== Philosopher [67] is eating
+==400== Philosopher [19] has taken a fork with left hand
+==400== Philosopher [19] is eating
+==400== Philosopher [37] has taken a fork with left hand
+==400== Philosopher [37] is eating
+==400== Philosopher [31] is thinking
+==400== Philosopher [31] has taken a fork with right hand
+==400== Philosopher [31] has taken a fork with left hand
+==400== Philosopher [89] has taken a fork with right hand
+==400== Philosopher [89] has taken a fork with left hand
+==400== Philosopher [89] is eating
+==400== Philosopher [29] has taken a fork with left hand
+==400== Philosopher [29] is eating
+==400== Philosopher [25] is thinking
+==400== Philosopher [25] has taken a fork with right hand
+==401== Philosopher [11] is eating
+==400== Philosopher [13] has taken a fork with right hand
+==400== Philosopher [13] has taken a fork with left hand
+==400== Philosopher [13] is eating
+==400== Philosopher [21] has taken a fork with right hand
+==400== Philosopher [21] has taken a fork with left hand
+==400== Philosopher [21] is eating
+==400== Philosopher [43] is thinking
+==400== Philosopher [107] has taken a fork with left hand
+==400== Philosopher [107] is eating
+==400== Philosopher [39] has taken a fork with right hand
+==400== Philosopher [43] has taken a fork with right hand
+==400== Philosopher [39] has taken a fork with left hand
+==400== Philosopher [39] is eating
+==400== Philosopher [43] has taken a fork with left hand
+==400== Philosopher [57] is eating
+==400== Philosopher [43] is eating
+==400== Philosopher [77] is eating
+==400== Philosopher [15] is eating
+==400== Philosopher [17] has taken a fork with left hand
+==400== Philosopher [41] has taken a fork with right hand
+==400== Philosopher [17] is eating
+==400== Philosopher [41] has taken a fork with left hand
+==400== Philosopher [105] is thinking
+==400== Philosopher [35] is eating
+==400== Philosopher [93] has taken a fork with left hand
+==400== Philosopher [31] is eating
+==400== Philosopher [25] has taken a fork with left hand
+==400== Philosopher [93] is eating
+==400== Philosopher [91] is eating
+==400== Philosopher [25] is eating
+==400== Philosopher [41] is eating
+==400== Philosopher [85] is eating
+==400== Philosopher [95] has taken a fork with right hand
+==400== Philosopher [105] has taken a fork with right hand
+==400== Philosopher [105] has taken a fork with left hand
+==400== Philosopher [95] has taken a fork with left hand
+==400== Philosopher [105] is eating
+==400== Philosopher [95] is eating
+==400== Philosopher [69] is thinking
+==400== Philosopher [69] has taken a fork with right hand
+==400== Philosopher [69] has taken a fork with left hand
+==400== Philosopher [69] is eating
+==400== Philosopher [102] is sleeping
+==400== Philosopher [103] has taken a fork with left hand
+==400== Philosopher [103] is eating
+==400== Philosopher [101] has taken a fork with right hand
+==400== Philosopher [101] has taken a fork with left hand
+==400== Philosopher [72] is sleeping
+==400== Philosopher [101] is eating
+==400== Philosopher [71] has taken a fork with right hand
+==400== Philosopher [71] has taken a fork with left hand
+==400== Philosopher [71] is eating
+==400== Philosopher [73] has taken a fork with left hand
+==400== Philosopher [73] is eating
+==400== Philosopher [140] is sleeping
+==400== Philosopher [142] is sleeping
+==400== Philosopher [148] is sleeping
+==400== Philosopher [126] is sleeping
+==400== Philosopher [139] is thinking
+==400== Philosopher [152] has taken a fork with right hand
+==400== Philosopher [153] is sleeping
+==400== Philosopher [133] is thinking
+==400== Philosopher [129] is thinking
+==400== Philosopher [152] is eating
+==400== Philosopher [132] is sleeping
+==400== Philosopher [117] is thinking
+==400== Philosopher [133] has taken a fork with right hand
+==400== Philosopher [122] is sleeping
+==400== Philosopher [133] has taken a fork with left hand
+==401== Philosopher [114] is sleeping
+==400== Philosopher [155] is sleeping
+==400== Philosopher [134] is sleeping
+==400== Philosopher [138] is sleeping
+==400== Philosopher [146] is sleeping
+==400== Philosopher [156] has taken a fork with left hand
+==400== Philosopher [117] has taken a fork with right hand
+==400== Philosopher [137] is thinking
+==400== Philosopher [145] is thinking
+==400== Philosopher [136] is sleeping
+==400== Philosopher [120] is sleeping
+==400== Philosopher [115] is thinking
+==400== Philosopher [144] is sleeping
+==400== Philosopher [143] is thinking
+==400== Philosopher [118] is sleeping
+==400== Philosopher [156] has taken a fork with right hand
+==400== Philosopher [156] is eating
+==400== Philosopher [154] is thinking
+==400== Philosopher [137] has taken a fork with right hand
+==400== Philosopher [143] has taken a fork with right hand
+==400== Philosopher [154] has taken a fork with left hand
+==400== Philosopher [154] has taken a fork with right hand
+==400== Philosopher [143] has taken a fork with left hand
+==400== Philosopher [154] is eating
+==401== Philosopher [113] is thinking
+==400== Philosopher [143] is eating
+==400== Philosopher [139] has taken a fork with right hand
+==400== Philosopher [137] has taken a fork with left hand
+==400== Philosopher [139] has taken a fork with left hand
+==401== Philosopher [113] has taken a fork with right hand
+==400== Philosopher [145] has taken a fork with right hand
+==400== Philosopher [145] has taken a fork with left hand
+==400== Philosopher [139] is eating
+==400== Philosopher [123] is thinking
+==400== Philosopher [145] is eating
+==400== Philosopher [137] is eating
+==400== Philosopher [131] is thinking
+==400== Philosopher [149] is thinking
+==400== Philosopher [131] has taken a fork with right hand
+==400== Philosopher [124] is sleeping
+==400== Philosopher [119] is thinking
+==400== Philosopher [119] has taken a fork with right hand
+==400== Philosopher [123] has taken a fork with right hand
+==400== Philosopher [125] is thinking
+==400== Philosopher [135] is thinking
+==400== Philosopher [125] has taken a fork with right hand
+==400== Philosopher [125] has taken a fork with left hand
+==400== Philosopher [151] is thinking
+==400== Philosopher [135] has taken a fork with right hand
+==400== Philosopher [116] is sleeping
+==400== Philosopher [119] has taken a fork with left hand
+==400== Philosopher [133] is eating
+==400== Philosopher [119] is eating
+==400== Philosopher [121] is thinking
+==400== Philosopher [121] has taken a fork with right hand
+==400== Philosopher [121] has taken a fork with left hand
+==400== Philosopher [121] is eating
+==400== Philosopher [115] has taken a fork with right hand
+==400== Philosopher [125] is eating
+==400== Philosopher [117] has taken a fork with left hand
+==400== Philosopher [141] is thinking
+==400== Philosopher [141] has taken a fork with right hand
+==400== Philosopher [135] has taken a fork with left hand
+==400== Philosopher [141] has taken a fork with left hand
+==400== Philosopher [115] has taken a fork with left hand
+==400== Philosopher [115] is eating
+==400== Philosopher [135] is eating
+==400== Philosopher [117] is eating
+==400== Philosopher [123] has taken a fork with left hand
+==400== Philosopher [123] is eating
+==400== Philosopher [141] is eating
+==400== Philosopher [127] is thinking
+==400== Philosopher [130] is sleeping
+==400== Philosopher [128] is sleeping
+==400== Philosopher [131] has taken a fork with left hand
+==400== Philosopher [131] is eating
+==400== Philosopher [127] has taken a fork with right hand
+==400== Philosopher [127] has taken a fork with left hand
+==400== Philosopher [127] is eating
+==401== Philosopher [112] is sleeping
+==401== Philosopher [113] has taken a fork with left hand
+==401== Philosopher [113] is eating
+==400== Philosopher [147] is thinking
+==400== Philosopher [147] has taken a fork with right hand
+==400== Philosopher [147] has taken a fork with left hand
+==401== Philosopher [111] has taken a fork with right hand
+==401== Philosopher [111] has taken a fork with left hand
+==401== Philosopher [111] is eating
+==400== Philosopher [129] has taken a fork with right hand
+==400== Philosopher [129] has taken a fork with left hand
+==400== Philosopher [129] is eating
+==400== Philosopher [147] is eating
+==400== Philosopher [150] is sleeping
+==400== Philosopher [149] has taken a fork with right hand
+==400== Philosopher [149] has taken a fork with left hand
+==400== Philosopher [149] is eating
+==400== Philosopher [191] is thinking
+==400== Philosopher [178] is sleeping
+==400== Philosopher [174] is sleeping
+==400== Philosopher [163] is thinking
+==400== Philosopher [173] is thinking
+==400== Philosopher [170] is sleeping
+==400== Philosopher [168] is sleeping
+==400== Philosopher [173] has taken a fork with right hand
+==400== Philosopher [184] is sleeping
+==400== Philosopher [159] is thinking
+==400== Philosopher [198] is sleeping
+==400== Philosopher [196] is sleeping
+==400== Philosopher [172] is sleeping
+==400== Philosopher [162] is sleeping
+==400== Philosopher [190] is sleeping
+==400== Philosopher [195] is thinking
+==400== Philosopher [173] has taken a fork with left hand
+==400== Philosopher [183] is thinking
+==400== Philosopher [173] is eating
+==400== Philosopher [183] has taken a fork with right hand
+==400== Philosopher [186] is sleeping
+==400== Philosopher [165] is thinking
+==403== Philosopher [0] has taken a fork with left hand
+==400== Philosopher [158] is sleeping
+==400== Philosopher [195] has taken a fork with right hand
+==403== Philosopher [0] has taken a fork with right hand
+==403== Philosopher [0] is eating
+==400== Philosopher [182] is sleeping
+==400== Philosopher [175] is thinking
+==400== Philosopher [189] is thinking
+==400== Philosopher [183] has taken a fork with left hand
+==400== Philosopher [183] is eating
+==400== Philosopher [179] is thinking
+==400== Philosopher [169] is thinking
+==400== Philosopher [165] has taken a fork with right hand
+==400== Philosopher [189] has taken a fork with right hand
+==400== Philosopher [189] has taken a fork with left hand
+==400== Philosopher [189] is eating
+==400== Philosopher [176] is sleeping
+==400== Philosopher [161] is thinking
+==400== Philosopher [161] has taken a fork with right hand
+==400== Philosopher [161] has taken a fork with left hand
+==400== Philosopher [161] is eating
+==400== Philosopher [159] has taken a fork with right hand
+==400== Philosopher [175] has taken a fork with right hand
+==400== Philosopher [193] is thinking
+==400== Philosopher [167] is thinking
+==400== Philosopher [167] has taken a fork with right hand
+==400== Philosopher [159] has taken a fork with left hand
+==400== Philosopher [167] has taken a fork with left hand
+==400== Philosopher [177] is thinking
+==400== Philosopher [159] is eating
+==400== Philosopher [160] is sleeping
+==400== Philosopher [181] is thinking
+==400== Philosopher [169] has taken a fork with right hand
+==400== Philosopher [187] is thinking
+==400== Philosopher [192] is sleeping
+==400== Philosopher [181] has taken a fork with right hand
+==400== Philosopher [188] is sleeping
+==400== Philosopher [166] is sleeping
+==400== Philosopher [169] has taken a fork with left hand
+==400== Philosopher [175] has taken a fork with left hand
+==400== Philosopher [169] is eating
+==400== Philosopher [167] is eating
+==400== Philosopher [187] has taken a fork with right hand
+==400== Philosopher [177] has taken a fork with right hand
+==400== Philosopher [187] has taken a fork with left hand
+==400== Philosopher [187] is eating
+==400== Philosopher [191] has taken a fork with right hand
+==400== Philosopher [191] has taken a fork with left hand
+==400== Philosopher [175] is eating
+==400== Philosopher [177] has taken a fork with left hand
+==400== Philosopher [177] is eating
+==400== Philosopher [191] is eating
+==400== Philosopher [171] is thinking
+==400== Philosopher [171] has taken a fork with right hand
+==400== Philosopher [171] has taken a fork with left hand
+==400== Philosopher [185] is thinking
+==400== Philosopher [185] has taken a fork with right hand
+==400== Philosopher [171] is eating
+==400== Philosopher [185] has taken a fork with left hand
+==400== Philosopher [185] is eating
+==400== Philosopher [164] is sleeping
+==400== Philosopher [157] is thinking
+==400== Philosopher [180] is sleeping
+==400== Philosopher [179] has taken a fork with right hand
+==400== Philosopher [193] has taken a fork with right hand
+==400== Philosopher [193] has taken a fork with left hand
+==400== Philosopher [193] is eating
+==400== Philosopher [181] has taken a fork with left hand
+==400== Philosopher [197] is thinking
+==400== Philosopher [197] has taken a fork with right hand
+==400== Philosopher [181] is eating
+==400== Philosopher [163] has taken a fork with right hand
+==400== Philosopher [179] has taken a fork with left hand
+==400== Philosopher [163] has taken a fork with left hand
+==400== Philosopher [197] has taken a fork with left hand
+==400== Philosopher [197] is eating
+==400== Philosopher [163] is eating
+==400== Philosopher [179] is eating
+==400== Philosopher [194] is sleeping
+==400== Philosopher [165] has taken a fork with left hand
+==400== Philosopher [165] is eating
+==400== Philosopher [195] has taken a fork with left hand
+==400== Philosopher [157] has taken a fork with right hand
+==400== Philosopher [195] is eating
+==600== Philosopher [5] is sleeping
+==600== Philosopher [6] is thinking
+==600== Philosopher [3] has taken a fork with left hand
+==600== Philosopher [6] has taken a fork with left hand
+==600== Philosopher [1] is thinking
+==600== Philosopher [9] is sleeping
+==600== Philosopher [1] has taken a fork with right hand
+==600== Philosopher [2] is sleeping
+==600== Philosopher [8] is thinking
+==600== Philosopher [4] is thinking
+==600== Philosopher [3] is eating
+==600== Philosopher [10] is thinking
+==600== Philosopher [10] has taken a fork with left hand
+==600== Philosopher [7] is sleeping
+==600== Philosopher [6] has taken a fork with right hand
+==600== Philosopher [6] is eating
+==600== Philosopher [8] has taken a fork with left hand
+==600== Philosopher [8] has taken a fork with right hand
+==600== Philosopher [8] is eating
+==600== Philosopher [31] is sleeping
+==600== Philosopher [101] is sleeping
+==600== Philosopher [83] is sleeping
+==600== Philosopher [77] is sleeping
+==600== Philosopher [59] is sleeping
+==600== Philosopher [15] is sleeping
+==600== Philosopher [33] is sleeping
+==600== Philosopher [56] is thinking
+==600== Philosopher [100] is thinking
+==600== Philosopher [98] is thinking
+==600== Philosopher [103] is sleeping
+==600== Philosopher [72] is thinking
+==600== Philosopher [32] is thinking
+==600== Philosopher [26] is thinking
+==600== Philosopher [108] is thinking
+==600== Philosopher [24] is thinking
+==600== Philosopher [76] is thinking
+==600== Philosopher [16] is thinking
+==600== Philosopher [40] is thinking
+==600== Philosopher [17] is sleeping
+==600== Philosopher [27] is sleeping
+==600== Philosopher [86] is thinking
+==600== Philosopher [29] is sleeping
+==600== Philosopher [32] has taken a fork with left hand
+==600== Philosopher [78] is thinking
+==600== Philosopher [18] is thinking
+==600== Philosopher [67] is sleeping
+==600== Philosopher [16] has taken a fork with left hand
+==600== Philosopher [78] has taken a fork with left hand
+==600== Philosopher [75] is sleeping
+==600== Philosopher [40] has taken a fork with left hand
+==600== Philosopher [48] is thinking
+==600== Philosopher [43] is sleeping
+==600== Philosopher [53] is sleeping
+==600== Philosopher [45] is sleeping
+==600== Philosopher [54] is thinking
+==600== Philosopher [19] is sleeping
+==600== Philosopher [44] is thinking
+==600== Philosopher [64] is thinking
+==600== Philosopher [64] has taken a fork with left hand
+==600== Philosopher [64] has taken a fork with right hand
+==600== Philosopher [64] is eating
+==600== Philosopher [14] is thinking
+==600== Philosopher [14] has taken a fork with left hand
+==601== Philosopher [12] is thinking
+==600== Philosopher [14] has taken a fork with right hand
+==600== Philosopher [14] is eating
+==600== Philosopher [110] is thinking
+==600== Philosopher [92] is thinking
+==600== Philosopher [110] has taken a fork with left hand
+==600== Philosopher [32] has taken a fork with right hand
+==600== Philosopher [92] has taken a fork with left hand
+==600== Philosopher [38] is thinking
+==600== Philosopher [32] is eating
+==600== Philosopher [38] has taken a fork with left hand
+==600== Philosopher [39] is sleeping
+==600== Philosopher [38] has taken a fork with right hand
+==600== Philosopher [38] is eating
+==600== Philosopher [46] is thinking
+==600== Philosopher [105] is sleeping
+==600== Philosopher [46] has taken a fork with left hand
+==600== Philosopher [46] has taken a fork with right hand
+==600== Philosopher [16] has taken a fork with right hand
+==600== Philosopher [74] is thinking
+==600== Philosopher [16] is eating
+==600== Philosopher [74] has taken a fork with left hand
+==600== Philosopher [40] has taken a fork with right hand
+==600== Philosopher [28] is thinking
+==600== Philosopher [40] is eating
+==600== Philosopher [28] has taken a fork with left hand
+==600== Philosopher [84] is thinking
+==600== Philosopher [28] has taken a fork with right hand
+==600== Philosopher [57] is sleeping
+==600== Philosopher [28] is eating
+==600== Philosopher [60] is thinking
+==600== Philosopher [82] is thinking
+==600== Philosopher [13] is sleeping
+==600== Philosopher [82] has taken a fork with left hand
+==600== Philosopher [82] has taken a fork with right hand
+==600== Philosopher [104] is thinking
+==600== Philosopher [70] is thinking
+==600== Philosopher [104] has taken a fork with left hand
+==600== Philosopher [81] is sleeping
+==600== Philosopher [50] is thinking
+==600== Philosopher [104] has taken a fork with right hand
+==600== Philosopher [50] has taken a fork with left hand
+==600== Philosopher [104] is eating
+==600== Philosopher [58] is thinking
+==600== Philosopher [76] has taken a fork with left hand
+==600== Philosopher [26] has taken a fork with left hand
+==600== Philosopher [62] is thinking
+==600== Philosopher [76] has taken a fork with right hand
+==600== Philosopher [76] is eating
+==600== Philosopher [26] has taken a fork with right hand
+==600== Philosopher [62] has taken a fork with left hand
+==600== Philosopher [68] is thinking
+==600== Philosopher [62] has taken a fork with right hand
+==600== Philosopher [69] is sleeping
+==600== Philosopher [108] has taken a fork with left hand
+==600== Philosopher [94] is thinking
+==600== Philosopher [71] is sleeping
+==600== Philosopher [106] is thinking
+==600== Philosopher [66] is thinking
+==600== Philosopher [90] is thinking
+==600== Philosopher [66] has taken a fork with left hand
+==600== Philosopher [90] has taken a fork with left hand
+==600== Philosopher [89] is sleeping
+==600== Philosopher [90] has taken a fork with right hand
+==600== Philosopher [66] has taken a fork with right hand
+==600== Philosopher [47] is sleeping
+==600== Philosopher [90] is eating
+==600== Philosopher [66] is eating
+==600== Philosopher [52] is thinking
+==600== Philosopher [80] is thinking
+==600== Philosopher [35] is sleeping
+==600== Philosopher [80] has taken a fork with left hand
+==600== Philosopher [52] has taken a fork with left hand
+==600== Philosopher [88] is thinking
+==600== Philosopher [52] has taken a fork with right hand
+==600== Philosopher [34] is thinking
+==600== Philosopher [48] has taken a fork with left hand
+==600== Philosopher [34] has taken a fork with left hand
+==600== Philosopher [48] has taken a fork with right hand
+==600== Philosopher [87] is sleeping
+==600== Philosopher [48] is eating
+==600== Philosopher [55] is sleeping
+==600== Philosopher [63] is sleeping
+==600== Philosopher [56] has taken a fork with left hand
+==600== Philosopher [23] is sleeping
+==600== Philosopher [97] is sleeping
+==600== Philosopher [49] is sleeping
+==600== Philosopher [91] is sleeping
+==600== Philosopher [24] has taken a fork with left hand
+==600== Philosopher [24] has taken a fork with right hand
+==600== Philosopher [24] is eating
+==600== Philosopher [98] has taken a fork with left hand
+==600== Philosopher [98] has taken a fork with right hand
+==600== Philosopher [98] is eating
+==601== Philosopher [11] is sleeping
+==600== Philosopher [96] is thinking
+==600== Philosopher [96] has taken a fork with left hand
+==600== Philosopher [95] is sleeping
+==600== Philosopher [96] has taken a fork with right hand
+==600== Philosopher [96] is eating
+==601== Philosopher [10] has taken a fork with right hand
+==600== Philosopher [99] is sleeping
+==600== Philosopher [37] is sleeping
+==600== Philosopher [100] has taken a fork with left hand
+==600== Philosopher [85] is sleeping
+==600== Philosopher [100] has taken a fork with right hand
+==600== Philosopher [100] is eating
+==600== Philosopher [86] has taken a fork with left hand
+==600== Philosopher [73] is sleeping
+==600== Philosopher [86] has taken a fork with right hand
+==600== Philosopher [86] is eating
+==600== Philosopher [92] has taken a fork with right hand
+==600== Philosopher [18] has taken a fork with left hand
+==600== Philosopher [92] is eating
+==600== Philosopher [46] is eating
+==600== Philosopher [18] has taken a fork with right hand
+==600== Philosopher [18] is eating
+==600== Philosopher [74] has taken a fork with right hand
+==600== Philosopher [74] is eating
+==600== Philosopher [84] has taken a fork with left hand
+==600== Philosopher [84] has taken a fork with right hand
+==600== Philosopher [84] is eating
+==600== Philosopher [25] is sleeping
+==600== Philosopher [60] has taken a fork with left hand
+==600== Philosopher [60] has taken a fork with right hand
+==600== Philosopher [60] is eating
+==600== Philosopher [30] is thinking
+==600== Philosopher [30] has taken a fork with left hand
+==600== Philosopher [30] has taken a fork with right hand
+==600== Philosopher [82] is eating
+==600== Philosopher [70] has taken a fork with left hand
+==600== Philosopher [70] has taken a fork with right hand
+==600== Philosopher [70] is eating
+==600== Philosopher [54] has taken a fork with left hand
+==600== Philosopher [54] has taken a fork with right hand
+==600== Philosopher [54] is eating
+==600== Philosopher [44] has taken a fork with left hand
+==600== Philosopher [44] has taken a fork with right hand
+==600== Philosopher [44] is eating
+==600== Philosopher [50] has taken a fork with right hand
+==600== Philosopher [50] is eating
+==600== Philosopher [93] is sleeping
+==600== Philosopher [58] has taken a fork with left hand
+==600== Philosopher [58] has taken a fork with right hand
+==600== Philosopher [61] is sleeping
+==600== Philosopher [41] is sleeping
+==600== Philosopher [102] is thinking
+==600== Philosopher [102] has taken a fork with left hand
+==600== Philosopher [102] has taken a fork with right hand
+==600== Philosopher [26] is eating
+==600== Philosopher [102] is eating
+==600== Philosopher [68] has taken a fork with left hand
+==600== Philosopher [62] is eating
+==600== Philosopher [108] has taken a fork with right hand
+==600== Philosopher [94] has taken a fork with left hand
+==600== Philosopher [108] is eating
+==600== Philosopher [94] has taken a fork with right hand
+==600== Philosopher [106] has taken a fork with left hand
+==600== Philosopher [94] is eating
+==600== Philosopher [36] is thinking
+==600== Philosopher [109] is sleeping
+==600== Philosopher [72] has taken a fork with left hand
+==600== Philosopher [42] is thinking
+==600== Philosopher [72] has taken a fork with right hand
+==600== Philosopher [20] is thinking
+==600== Philosopher [80] has taken a fork with right hand
+==600== Philosopher [42] has taken a fork with left hand
+==600== Philosopher [20] has taken a fork with left hand
+==600== Philosopher [80] is eating
+==600== Philosopher [52] is eating
+==600== Philosopher [42] has taken a fork with right hand
+==600== Philosopher [34] has taken a fork with right hand
+==600== Philosopher [34] is eating
+==601== Philosopher [12] has taken a fork with left hand
+==601== Philosopher [12] has taken a fork with right hand
+==601== Philosopher [12] is eating
+==600== Philosopher [22] is thinking
+==600== Philosopher [22] has taken a fork with left hand
+==600== Philosopher [30] is eating
+==600== Philosopher [22] has taken a fork with right hand
+==600== Philosopher [22] is eating
+==600== Philosopher [58] is eating
+==600== Philosopher [68] has taken a fork with right hand
+==600== Philosopher [68] is eating
+==600== Philosopher [107] is sleeping
+==600== Philosopher [106] has taken a fork with right hand
+==600== Philosopher [106] is eating
+==600== Philosopher [36] has taken a fork with left hand
+==600== Philosopher [36] has taken a fork with right hand
+==600== Philosopher [36] is eating
+==600== Philosopher [79] is sleeping
+==600== Philosopher [72] is eating
+==600== Philosopher [65] is sleeping
+==600== Philosopher [88] has taken a fork with left hand
+==600== Philosopher [88] has taken a fork with right hand
+==600== Philosopher [88] is eating
+==600== Philosopher [51] is sleeping
+==600== Philosopher [20] has taken a fork with right hand
+==600== Philosopher [20] is eating
+==600== Philosopher [78] has taken a fork with right hand
+==600== Philosopher [78] is eating
+==600== Philosopher [21] is sleeping
+==600== Philosopher [56] has taken a fork with right hand
+==600== Philosopher [56] is eating
+==600== Philosopher [42] is eating
+==601== Philosopher [10] is eating
+==600== Philosopher [147] is sleeping
+==600== Philosopher [144] is thinking
+==600== Philosopher [129] is sleeping
+==600== Philosopher [128] is thinking
+==600== Philosopher [119] is sleeping
+==600== Philosopher [150] is thinking
+==600== Philosopher [136] is thinking
+==600== Philosopher [115] is sleeping
+==600== Philosopher [146] is thinking
+==600== Philosopher [124] is thinking
+==600== Philosopher [152] is sleeping
+==600== Philosopher [151] has taken a fork with right hand
+==600== Philosopher [151] has taken a fork with left hand
+==600== Philosopher [151] is eating
+==600== Philosopher [137] is sleeping
+==600== Philosopher [153] is thinking
+==600== Philosopher [140] is thinking
+==599== Philosopher [157] has taken a fork with left hand
+==600== Philosopher [125] is sleeping
+==600== Philosopher [123] is sleeping
+==600== Philosopher [141] is sleeping
+==600== Philosopher [124] has taken a fork with left hand
+==601== Philosopher [111] is sleeping
+==600== Philosopher [124] has taken a fork with right hand
+==600== Philosopher [126] is thinking
+==600== Philosopher [126] has taken a fork with left hand
+==601== Philosopher [110] has taken a fork with right hand
+==601== Philosopher [110] is eating
+==599== Philosopher [157] is eating
+==600== Philosopher [156] is sleeping
+==600== Philosopher [134] is thinking
+==600== Philosopher [142] is thinking
+==601== Philosopher [114] is thinking
+==600== Philosopher [127] is sleeping
+==600== Philosopher [142] has taken a fork with left hand
+==600== Philosopher [124] is eating
+==600== Philosopher [148] is thinking
+==600== Philosopher [136] has taken a fork with left hand
+==600== Philosopher [128] has taken a fork with left hand
+==600== Philosopher [148] has taken a fork with left hand
+==600== Philosopher [131] is sleeping
+==600== Philosopher [136] has taken a fork with right hand
+==600== Philosopher [140] has taken a fork with left hand
+==600== Philosopher [145] is sleeping
+==601== Philosopher [113] is sleeping
+==600== Philosopher [140] has taken a fork with right hand
+==600== Philosopher [155] is thinking
+==601== Philosopher [114] has taken a fork with left hand
+==600== Philosopher [154] is sleeping
+==601== Philosopher [114] has taken a fork with right hand
+==600== Philosopher [146] has taken a fork with left hand
+==600== Philosopher [128] has taken a fork with right hand
+==600== Philosopher [138] is thinking
+==600== Philosopher [132] is thinking
+==600== Philosopher [136] is eating
+==600== Philosopher [155] has taken a fork with right hand
+==601== Philosopher [112] is thinking
+==600== Philosopher [155] has taken a fork with left hand
+==600== Philosopher [121] is sleeping
+==601== Philosopher [114] is eating
+==600== Philosopher [146] has taken a fork with right hand
+==600== Philosopher [132] has taken a fork with left hand
+==600== Philosopher [146] is eating
+==600== Philosopher [118] is thinking
+==600== Philosopher [155] is eating
+==600== Philosopher [138] has taken a fork with left hand
+==600== Philosopher [138] has taken a fork with right hand
+==600== Philosopher [128] is eating
+==600== Philosopher [138] is eating
+==600== Philosopher [139] is sleeping
+==600== Philosopher [135] is sleeping
+==601== Philosopher [112] has taken a fork with left hand
+==600== Philosopher [149] is sleeping
+==601== Philosopher [112] has taken a fork with right hand
+==600== Philosopher [148] has taken a fork with right hand
+==601== Philosopher [112] is eating
+==600== Philosopher [148] is eating
+==600== Philosopher [126] has taken a fork with right hand
+==600== Philosopher [143] is sleeping
+==600== Philosopher [142] has taken a fork with right hand
+==600== Philosopher [126] is eating
+==600== Philosopher [150] has taken a fork with left hand
+==600== Philosopher [142] is eating
+==600== Philosopher [133] is sleeping
+==600== Philosopher [117] is sleeping
+==600== Philosopher [153] has taken a fork with right hand
+==600== Philosopher [130] is thinking
+==600== Philosopher [153] has taken a fork with left hand
+==600== Philosopher [144] has taken a fork with left hand
+==600== Philosopher [140] is eating
+==600== Philosopher [144] has taken a fork with right hand
+==600== Philosopher [132] has taken a fork with right hand
+==600== Philosopher [153] is eating
+==600== Philosopher [122] is thinking
+==600== Philosopher [144] is eating
+==600== Philosopher [134] has taken a fork with left hand
+==600== Philosopher [118] has taken a fork with left hand
+==600== Philosopher [134] has taken a fork with right hand
+==600== Philosopher [130] has taken a fork with left hand
+==600== Philosopher [130] has taken a fork with right hand
+==600== Philosopher [134] is eating
+==600== Philosopher [122] has taken a fork with left hand
+==600== Philosopher [130] is eating
+==600== Philosopher [122] has taken a fork with right hand
+==600== Philosopher [118] has taken a fork with right hand
+==600== Philosopher [118] is eating
+==600== Philosopher [122] is eating
+==600== Philosopher [132] is eating
+==600== Philosopher [120] is thinking
+==600== Philosopher [120] has taken a fork with left hand
+==600== Philosopher [120] has taken a fork with right hand
+==600== Philosopher [120] is eating
+==600== Philosopher [116] is thinking
+==600== Philosopher [116] has taken a fork with left hand
+==600== Philosopher [116] has taken a fork with right hand
+==600== Philosopher [116] is eating
+==600== Philosopher [163] is sleeping
+==600== Philosopher [164] is thinking
+==600== Philosopher [164] has taken a fork with left hand
+==600== Philosopher [161] is sleeping
+==600== Philosopher [185] is sleeping
+==600== Philosopher [181] is sleeping
+==600== Philosopher [195] is sleeping
+==600== Philosopher [171] is sleeping
+==600== Philosopher [196] is thinking
+==600== Philosopher [179] is sleeping
+==600== Philosopher [183] is sleeping
+==600== Philosopher [187] is sleeping
+==600== Philosopher [172] is thinking
+==600== Philosopher [176] is thinking
+==600== Philosopher [172] has taken a fork with left hand
+==600== Philosopher [180] is thinking
+==600== Philosopher [180] has taken a fork with left hand
+==600== Philosopher [178] is thinking
+==600== Philosopher [176] has taken a fork with left hand
+==600== Philosopher [176] has taken a fork with right hand
+==600== Philosopher [176] is eating
+==600== Philosopher [162] is thinking
+==600== Philosopher [178] has taken a fork with left hand
+==600== Philosopher [162] has taken a fork with left hand
+==600== Philosopher [162] has taken a fork with right hand
+==600== Philosopher [196] has taken a fork with left hand
+==600== Philosopher [193] is sleeping
+==600== Philosopher [173] is sleeping
+==600== Philosopher [175] is sleeping
+==603== Philosopher [0] is sleeping
+==600== Philosopher [180] has taken a fork with right hand
+==600== Philosopher [180] is eating
+==600== Philosopher [184] is thinking
+==600== Philosopher [184] has taken a fork with left hand
+==600== Philosopher [189] is sleeping
+==600== Philosopher [192] is thinking
+==600== Philosopher [162] is eating
+==600== Philosopher [169] is sleeping
+==600== Philosopher [192] has taken a fork with left hand
+==600== Philosopher [192] has taken a fork with right hand
+==600== Philosopher [192] is eating
+==600== Philosopher [186] is thinking
+==600== Philosopher [186] has taken a fork with left hand
+==600== Philosopher [160] is thinking
+==600== Philosopher [160] has taken a fork with left hand
+==600== Philosopher [160] has taken a fork with right hand
+==600== Philosopher [160] is eating
+==600== Philosopher [172] has taken a fork with right hand
+==600== Philosopher [172] is eating
+==600== Philosopher [188] is thinking
+==600== Philosopher [188] has taken a fork with left hand
+==600== Philosopher [182] is thinking
+==600== Philosopher [182] has taken a fork with left hand
+==600== Philosopher [158] is thinking
+==600== Philosopher [168] is thinking
+==600== Philosopher [168] has taken a fork with left hand
+==600== Philosopher [168] has taken a fork with right hand
+==600== Philosopher [159] is sleeping
+==600== Philosopher [168] is eating
+==600== Philosopher [166] is thinking
+==600== Philosopher [198] is thinking
+==600== Philosopher [177] is sleeping
+==600== Philosopher [198] has taken a fork with left hand
+==600== Philosopher [198] has taken a fork with right hand
+==600== Philosopher [198] is eating
+==600== Philosopher [174] is thinking
+==600== Philosopher [174] has taken a fork with left hand
+==600== Philosopher [167] is sleeping
+==600== Philosopher [174] has taken a fork with right hand
+==600== Philosopher [174] is eating
+==600== Philosopher [190] is thinking
+==600== Philosopher [190] has taken a fork with left hand
+==600== Philosopher [191] is sleeping
+==600== Philosopher [194] is thinking
+==600== Philosopher [194] has taken a fork with left hand
+==600== Philosopher [194] has taken a fork with right hand
+==600== Philosopher [170] is thinking
+==600== Philosopher [194] is eating
+==600== Philosopher [170] has taken a fork with left hand
+==600== Philosopher [170] has taken a fork with right hand
+==600== Philosopher [184] has taken a fork with right hand
+==600== Philosopher [170] is eating
+==600== Philosopher [184] is eating
+==600== Philosopher [178] has taken a fork with right hand
+==600== Philosopher [186] has taken a fork with right hand
+==600== Philosopher [178] is eating
+==600== Philosopher [186] is eating
+==600== Philosopher [165] is sleeping
+==600== Philosopher [188] has taken a fork with right hand
+==600== Philosopher [182] has taken a fork with right hand
+==600== Philosopher [166] has taken a fork with left hand
+==600== Philosopher [196] has taken a fork with right hand
+==600== Philosopher [182] is eating
+==600== Philosopher [166] has taken a fork with right hand
+==603== Philosopher [1] has taken a fork with left hand
+==600== Philosopher [166] is eating
+==600== Philosopher [164] has taken a fork with right hand
+==600== Philosopher [188] is eating
+==600== Philosopher [196] is eating
+==600== Philosopher [164] is eating
+==600== Philosopher [197] is sleeping
+==603== Philosopher [1] is eating
+==600== Philosopher [190] has taken a fork with right hand
+==600== Philosopher [190] is eating
+==800== Philosopher [8] is sleeping
+==800== Philosopher [9] is thinking
+==800== Philosopher [3] is sleeping
+==800== Philosopher [2] is thinking
+==800== Philosopher [6] is sleeping
+==800== Philosopher [4] has taken a fork with left hand
+==800== Philosopher [5] is thinking
+==800== Philosopher [4] has taken a fork with right hand
+==800== Philosopher [4] is eating
+==800== Philosopher [5] has taken a fork with right hand
+==800== Philosopher [7] is thinking
+==800== Philosopher [7] has taken a fork with right hand
+==800== Philosopher [7] has taken a fork with left hand
+==800== Philosopher [7] is eating
+==800== Philosopher [19] is thinking
+==801== Philosopher [11] is thinking
+==800== Philosopher [56] is sleeping
+==800== Philosopher [44] is sleeping
+==800== Philosopher [72] is sleeping
+==800== Philosopher [42] is sleeping
+==800== Philosopher [91] is thinking
+==800== Philosopher [91] has taken a fork with right hand
+==800== Philosopher [24] is sleeping
+==800== Philosopher [51] is thinking
+==800== Philosopher [51] has taken a fork with right hand
+==800== Philosopher [109] is thinking
+==800== Philosopher [64] is sleeping
+==800== Philosopher [102] is sleeping
+==800== Philosopher [71] is thinking
+==800== Philosopher [71] has taken a fork with right hand
+==800== Philosopher [71] has taken a fork with left hand
+==800== Philosopher [32] is sleeping
+==800== Philosopher [66] is sleeping
+==800== Philosopher [16] is sleeping
+==800== Philosopher [31] is thinking
+==800== Philosopher [31] has taken a fork with right hand
+==800== Philosopher [31] has taken a fork with left hand
+==800== Philosopher [31] is eating
+==800== Philosopher [83] is thinking
+==800== Philosopher [83] has taken a fork with right hand
+==800== Philosopher [83] has taken a fork with left hand
+==800== Philosopher [83] is eating
+==800== Philosopher [52] is sleeping
+==800== Philosopher [101] is thinking
+==800== Philosopher [101] has taken a fork with right hand
+==800== Philosopher [101] has taken a fork with left hand
+==800== Philosopher [99] is thinking
+==800== Philosopher [99] has taken a fork with right hand
+==800== Philosopher [54] is sleeping
+==801== Philosopher [11] has taken a fork with right hand
+==800== Philosopher [93] is thinking
+==800== Philosopher [86] is sleeping
+==800== Philosopher [73] is thinking
+==800== Philosopher [92] is sleeping
+==800== Philosopher [105] is thinking
+==800== Philosopher [105] has taken a fork with right hand
+==800== Philosopher [106] is sleeping
+==800== Philosopher [43] is thinking
+==801== Philosopher [9] has taken a fork with right hand
+==800== Philosopher [13] is thinking
+==800== Philosopher [19] has taken a fork with right hand
+==800== Philosopher [38] is sleeping
+==801== Philosopher [11] has taken a fork with left hand
+==800== Philosopher [78] is sleeping
+==801== Philosopher [11] is eating
+==800== Philosopher [88] is sleeping
+==800== Philosopher [40] is sleeping
+==800== Philosopher [58] is sleeping
+==800== Philosopher [96] is sleeping
+==800== Philosopher [21] is thinking
+==800== Philosopher [99] has taken a fork with left hand
+==800== Philosopher [85] is thinking
+==800== Philosopher [21] has taken a fork with right hand
+==800== Philosopher [49] is thinking
+==800== Philosopher [81] is thinking
+==800== Philosopher [48] is sleeping
+==800== Philosopher [65] is thinking
+==800== Philosopher [85] has taken a fork with right hand
+==800== Philosopher [69] is thinking
+==800== Philosopher [99] is eating
+==800== Philosopher [85] has taken a fork with left hand
+==800== Philosopher [108] is sleeping
+==800== Philosopher [63] is thinking
+==800== Philosopher [79] is thinking
+==800== Philosopher [81] has taken a fork with right hand
+==800== Philosopher [63] has taken a fork with right hand
+==800== Philosopher [87] is thinking
+==800== Philosopher [28] is sleeping
+==800== Philosopher [61] is thinking
+==800== Philosopher [103] is thinking
+==801== Philosopher [9] has taken a fork with left hand
+==800== Philosopher [19] has taken a fork with left hand
+==800== Philosopher [69] has taken a fork with right hand
+==800== Philosopher [45] is thinking
+==800== Philosopher [100] is sleeping
+==800== Philosopher [62] is sleeping
+==800== Philosopher [17] is thinking
+==800== Philosopher [37] is thinking
+==800== Philosopher [51] has taken a fork with left hand
+==800== Philosopher [57] is thinking
+==800== Philosopher [69] has taken a fork with left hand
+==800== Philosopher [17] has taken a fork with right hand
+==800== Philosopher [105] has taken a fork with left hand
+==800== Philosopher [45] has taken a fork with right hand
+==800== Philosopher [73] has taken a fork with right hand
+==800== Philosopher [57] has taken a fork with right hand
+==800== Philosopher [57] has taken a fork with left hand
+==800== Philosopher [57] is eating
+==800== Philosopher [51] is eating
+==801== Philosopher [12] is sleeping
+==800== Philosopher [104] is sleeping
+==800== Philosopher [23] is thinking
+==800== Philosopher [23] has taken a fork with right hand
+==800== Philosopher [23] has taken a fork with left hand
+==800== Philosopher [34] is sleeping
+==800== Philosopher [47] is thinking
+==800== Philosopher [47] has taken a fork with right hand
+==800== Philosopher [81] has taken a fork with left hand
+==800== Philosopher [90] is sleeping
+==800== Philosopher [81] is eating
+==800== Philosopher [55] is thinking
+==800== Philosopher [55] has taken a fork with right hand
+==800== Philosopher [41] is thinking
+==800== Philosopher [55] has taken a fork with left hand
+==800== Philosopher [85] is eating
+==800== Philosopher [55] is eating
+==800== Philosopher [41] has taken a fork with right hand
+==800== Philosopher [39] is thinking
+==800== Philosopher [41] has taken a fork with left hand
+==800== Philosopher [41] is eating
+==800== Philosopher [39] has taken a fork with right hand
+==800== Philosopher [67] is thinking
+==800== Philosopher [68] is sleeping
+==800== Philosopher [39] has taken a fork with left hand
+==800== Philosopher [39] is eating
+==800== Philosopher [53] is thinking
+==800== Philosopher [65] has taken a fork with right hand
+==800== Philosopher [53] has taken a fork with right hand
+==800== Philosopher [53] has taken a fork with left hand
+==800== Philosopher [87] has taken a fork with right hand
+==800== Philosopher [53] is eating
+==800== Philosopher [94] is sleeping
+==800== Philosopher [87] has taken a fork with left hand
+==800== Philosopher [84] is sleeping
+==800== Philosopher [87] is eating
+==800== Philosopher [61] has taken a fork with right hand
+==800== Philosopher [33] is thinking
+==800== Philosopher [61] has taken a fork with left hand
+==800== Philosopher [33] has taken a fork with right hand
+==800== Philosopher [61] is eating
+==800== Philosopher [33] has taken a fork with left hand
+==800== Philosopher [59] is thinking
+==800== Philosopher [33] is eating
+==800== Philosopher [59] has taken a fork with right hand
+==800== Philosopher [103] has taken a fork with right hand
+==800== Philosopher [59] has taken a fork with left hand
+==800== Philosopher [74] is sleeping
+==800== Philosopher [59] is eating
+==800== Philosopher [19] is eating
+==800== Philosopher [71] is eating
+==800== Philosopher [14] is sleeping
+==800== Philosopher [26] is sleeping
+==800== Philosopher [95] is thinking
+==800== Philosopher [37] has taken a fork with right hand
+==800== Philosopher [91] has taken a fork with left hand
+==800== Philosopher [36] is sleeping
+==800== Philosopher [75] is thinking
+==800== Philosopher [75] has taken a fork with right hand
+==800== Philosopher [75] has taken a fork with left hand
+==800== Philosopher [18] is sleeping
+==800== Philosopher [98] is sleeping
+==800== Philosopher [69] is eating
+==800== Philosopher [107] is thinking
+==800== Philosopher [107] has taken a fork with right hand
+==800== Philosopher [107] has taken a fork with left hand
+==800== Philosopher [43] has taken a fork with right hand
+==800== Philosopher [43] has taken a fork with left hand
+==800== Philosopher [43] is eating
+==800== Philosopher [76] is sleeping
+==800== Philosopher [82] is sleeping
+==800== Philosopher [17] has taken a fork with left hand
+==800== Philosopher [70] is sleeping
+==800== Philosopher [101] is eating
+==800== Philosopher [60] is sleeping
+==800== Philosopher [105] is eating
+==801== Philosopher [10] is sleeping
+==800== Philosopher [13] has taken a fork with right hand
+==800== Philosopher [13] has taken a fork with left hand
+==800== Philosopher [13] is eating
+==800== Philosopher [79] has taken a fork with right hand
+==800== Philosopher [79] has taken a fork with left hand
+==800== Philosopher [79] is eating
+==800== Philosopher [27] is thinking
+==800== Philosopher [27] has taken a fork with right hand
+==800== Philosopher [27] has taken a fork with left hand
+==800== Philosopher [27] is eating
+==800== Philosopher [45] has taken a fork with left hand
+==800== Philosopher [45] is eating
+==800== Philosopher [77] is thinking
+==800== Philosopher [77] has taken a fork with right hand
+==800== Philosopher [77] has taken a fork with left hand
+==800== Philosopher [80] is sleeping
+==800== Philosopher [22] is sleeping
+==800== Philosopher [46] is sleeping
+==800== Philosopher [23] is eating
+==800== Philosopher [47] has taken a fork with left hand
+==800== Philosopher [47] is eating
+==800== Philosopher [73] has taken a fork with left hand
+==800== Philosopher [73] is eating
+==800== Philosopher [21] has taken a fork with left hand
+==800== Philosopher [21] is eating
+==800== Philosopher [20] is sleeping
+==800== Philosopher [15] is thinking
+==800== Philosopher [15] has taken a fork with right hand
+==800== Philosopher [15] has taken a fork with left hand
+==800== Philosopher [50] is sleeping
+==800== Philosopher [89] is thinking
+==800== Philosopher [89] has taken a fork with right hand
+==800== Philosopher [89] has taken a fork with left hand
+==800== Philosopher [67] has taken a fork with right hand
+==800== Philosopher [67] has taken a fork with left hand
+==800== Philosopher [67] is eating
+==800== Philosopher [63] has taken a fork with left hand
+==800== Philosopher [63] is eating
+==800== Philosopher [65] has taken a fork with left hand
+==800== Philosopher [65] is eating
+==800== Philosopher [30] is sleeping
+==800== Philosopher [97] is thinking
+==800== Philosopher [97] has taken a fork with right hand
+==800== Philosopher [103] has taken a fork with left hand
+==800== Philosopher [103] is eating
+==801== Philosopher [9] is eating
+==800== Philosopher [29] is thinking
+==800== Philosopher [29] has taken a fork with right hand
+==800== Philosopher [29] has taken a fork with left hand
+==800== Philosopher [95] has taken a fork with right hand
+==800== Philosopher [29] is eating
+==800== Philosopher [95] has taken a fork with left hand
+==800== Philosopher [95] is eating
+==800== Philosopher [49] has taken a fork with right hand
+==800== Philosopher [49] has taken a fork with left hand
+==800== Philosopher [49] is eating
+==800== Philosopher [75] is eating
+==800== Philosopher [93] has taken a fork with right hand
+==800== Philosopher [93] has taken a fork with left hand
+==800== Philosopher [93] is eating
+==800== Philosopher [107] is eating
+==800== Philosopher [17] is eating
+==800== Philosopher [25] is thinking
+==800== Philosopher [25] has taken a fork with right hand
+==800== Philosopher [25] has taken a fork with left hand
+==800== Philosopher [25] is eating
+==800== Philosopher [77] is eating
+==800== Philosopher [15] is eating
+==800== Philosopher [89] is eating
+==800== Philosopher [97] has taken a fork with left hand
+==800== Philosopher [37] has taken a fork with left hand
+==800== Philosopher [97] is eating
+==800== Philosopher [37] is eating
+==800== Philosopher [91] is eating
+==800== Philosopher [35] is thinking
+==800== Philosopher [35] has taken a fork with right hand
+==800== Philosopher [35] has taken a fork with left hand
+==800== Philosopher [35] is eating
+==800== Philosopher [145] is thinking
+==800== Philosopher [153] is sleeping
+==799== Philosopher [157] is sleeping
+==801== Philosopher [114] is sleeping
+==800== Philosopher [134] is sleeping
+==800== Philosopher [135] is thinking
+==801== Philosopher [111] is thinking
+==799== Philosopher [158] has taken a fork with left hand
+==799== Philosopher [158] has taken a fork with right hand
+==800== Philosopher [121] is thinking
+==800== Philosopher [124] is sleeping
+==800== Philosopher [127] is thinking
+==800== Philosopher [116] is sleeping
+==800== Philosopher [117] is thinking
+==799== Philosopher [158] is eating
+==800== Philosopher [147] is thinking
+==800== Philosopher [139] is thinking
+==801== Philosopher [109] has taken a fork with right hand
+==800== Philosopher [130] is sleeping
+==801== Philosopher [110] is sleeping
+==801== Philosopher [109] has taken a fork with left hand
+==801== Philosopher [109] is eating
+==800== Philosopher [125] is thinking
+==800== Philosopher [132] is sleeping
+==800== Philosopher [152] is thinking
+==800== Philosopher [137] is thinking
+==800== Philosopher [143] is thinking
+==800== Philosopher [129] is thinking
+==800== Philosopher [129] has taken a fork with right hand
+==800== Philosopher [141] is thinking
+==800== Philosopher [155] is sleeping
+==800== Philosopher [136] is sleeping
+==800== Philosopher [148] is sleeping
+==800== Philosopher [144] is sleeping
+==800== Philosopher [120] is sleeping
+==801== Philosopher [113] is thinking
+==801== Philosopher [113] has taken a fork with right hand
+==800== Philosopher [147] has taken a fork with right hand
+==800== Philosopher [119] is thinking
+==800== Philosopher [119] has taken a fork with right hand
+==800== Philosopher [156] is thinking
+==800== Philosopher [118] is sleeping
+==800== Philosopher [138] is sleeping
+==800== Philosopher [119] has taken a fork with left hand
+==800== Philosopher [119] is eating
+==800== Philosopher [149] is thinking
+==800== Philosopher [142] is sleeping
+==800== Philosopher [117] has taken a fork with right hand
+==800== Philosopher [146] is sleeping
+==800== Philosopher [117] has taken a fork with left hand
+==800== Philosopher [156] has taken a fork with left hand
+==800== Philosopher [131] is thinking
+==800== Philosopher [156] has taken a fork with right hand
+==801== Philosopher [113] has taken a fork with left hand
+==800== Philosopher [156] is eating
+==800== Philosopher [135] has taken a fork with right hand
+==801== Philosopher [112] is sleeping
+==800== Philosopher [115] is thinking
+==800== Philosopher [115] has taken a fork with right hand
+==800== Philosopher [145] has taken a fork with right hand
+==800== Philosopher [145] has taken a fork with left hand
+==800== Philosopher [135] has taken a fork with left hand
+==800== Philosopher [115] has taken a fork with left hand
+==800== Philosopher [117] is eating
+==800== Philosopher [135] is eating
+==800== Philosopher [151] is sleeping
+==800== Philosopher [140] is sleeping
+==800== Philosopher [133] is thinking
+==800== Philosopher [128] is sleeping
+==800== Philosopher [126] is sleeping
+==800== Philosopher [133] has taken a fork with right hand
+==800== Philosopher [123] is thinking
+==800== Philosopher [147] has taken a fork with left hand
+==800== Philosopher [127] has taken a fork with right hand
+==800== Philosopher [121] has taken a fork with right hand
+==800== Philosopher [143] has taken a fork with right hand
+==800== Philosopher [125] has taken a fork with right hand
+==800== Philosopher [115] is eating
+==800== Philosopher [143] has taken a fork with left hand
+==800== Philosopher [122] is sleeping
+==800== Philosopher [141] has taken a fork with right hand
+==800== Philosopher [125] has taken a fork with left hand
+==800== Philosopher [152] has taken a fork with left hand
+==800== Philosopher [141] has taken a fork with left hand
+==800== Philosopher [125] is eating
+==800== Philosopher [152] has taken a fork with right hand
+==800== Philosopher [143] is eating
+==800== Philosopher [152] is eating
+==800== Philosopher [150] has taken a fork with right hand
+==800== Philosopher [127] has taken a fork with left hand
+==800== Philosopher [150] is eating
+==800== Philosopher [133] has taken a fork with left hand
+==800== Philosopher [133] is eating
+==801== Philosopher [113] is eating
+==800== Philosopher [123] has taken a fork with right hand
+==800== Philosopher [131] has taken a fork with right hand
+==800== Philosopher [123] has taken a fork with left hand
+==800== Philosopher [121] has taken a fork with left hand
+==800== Philosopher [145] is eating
+==800== Philosopher [123] is eating
+==800== Philosopher [139] has taken a fork with right hand
+==800== Philosopher [137] has taken a fork with right hand
+==800== Philosopher [147] is eating
+==800== Philosopher [137] has taken a fork with left hand
+==800== Philosopher [127] is eating
+==800== Philosopher [137] is eating
+==800== Philosopher [131] has taken a fork with left hand
+==801== Philosopher [111] has taken a fork with right hand
+==800== Philosopher [131] is eating
+==800== Philosopher [139] has taken a fork with left hand
+==800== Philosopher [129] has taken a fork with left hand
+==800== Philosopher [129] is eating
+==800== Philosopher [141] is eating
+==800== Philosopher [121] is eating
+==800== Philosopher [139] is eating
+==801== Philosopher [111] has taken a fork with left hand
+==801== Philosopher [111] is eating
+==800== Philosopher [154] is thinking
+==800== Philosopher [154] has taken a fork with left hand
+==800== Philosopher [154] has taken a fork with right hand
+==800== Philosopher [154] is eating
+==803== Philosopher [1] is sleeping
+==803== Philosopher [2] has taken a fork with left hand
+==803== Philosopher [2] has taken a fork with right hand
+==803== Philosopher [2] is eating
+==800== Philosopher [191] is thinking
+==800== Philosopher [197] is thinking
+==800== Philosopher [190] is sleeping
+==800== Philosopher [167] is thinking
+==803== Philosopher [0] is thinking
+==800== Philosopher [175] is thinking
+==800== Philosopher [195] is thinking
+==800== Philosopher [175] has taken a fork with right hand
+==800== Philosopher [163] is thinking
+==800== Philosopher [163] has taken a fork with right hand
+==800== Philosopher [182] is sleeping
+==800== Philosopher [176] is sleeping
+==800== Philosopher [183] is thinking
+==800== Philosopher [164] is sleeping
+==800== Philosopher [186] is sleeping
+==800== Philosopher [188] is sleeping
+==800== Philosopher [171] is thinking
+==800== Philosopher [192] is sleeping
+==800== Philosopher [193] is thinking
+==800== Philosopher [166] is sleeping
+==800== Philosopher [162] is sleeping
+==800== Philosopher [191] has taken a fork with right hand
+==800== Philosopher [160] is sleeping
+==800== Philosopher [163] has taken a fork with left hand
+==800== Philosopher [189] is thinking
+==800== Philosopher [189] has taken a fork with right hand
+==800== Philosopher [174] is sleeping
+==800== Philosopher [180] is sleeping
+==800== Philosopher [189] has taken a fork with left hand
+==800== Philosopher [175] has taken a fork with left hand
+==800== Philosopher [175] is eating
+==800== Philosopher [170] is sleeping
+==800== Philosopher [189] is eating
+==800== Philosopher [179] is thinking
+==800== Philosopher [193] has taken a fork with right hand
+==800== Philosopher [165] is thinking
+==800== Philosopher [194] is sleeping
+==800== Philosopher [193] has taken a fork with left hand
+==800== Philosopher [193] is eating
+==800== Philosopher [165] has taken a fork with right hand
+==803== Philosopher [0] has taken a fork with left hand
+==800== Philosopher [167] has taken a fork with right hand
+==803== Philosopher [0] has taken a fork with right hand
+==800== Philosopher [184] is sleeping
+==800== Philosopher [191] has taken a fork with left hand
+==800== Philosopher [169] is thinking
+==800== Philosopher [179] has taken a fork with right hand
+==800== Philosopher [183] has taken a fork with right hand
+==800== Philosopher [168] is sleeping
+==800== Philosopher [191] is eating
+==800== Philosopher [183] has taken a fork with left hand
+==800== Philosopher [183] is eating
+==800== Philosopher [185] is thinking
+==800== Philosopher [159] is thinking
+==800== Philosopher [163] is eating
+==800== Philosopher [185] has taken a fork with right hand
+==800== Philosopher [185] has taken a fork with left hand
+==800== Philosopher [185] is eating
+==803== Philosopher [0] is eating
+==800== Philosopher [198] is sleeping
+==800== Philosopher [169] has taken a fork with right hand
+==800== Philosopher [169] has taken a fork with left hand
+==800== Philosopher [172] is sleeping
+==800== Philosopher [167] has taken a fork with left hand
+==800== Philosopher [167] is eating
+==800== Philosopher [171] has taken a fork with right hand
+==800== Philosopher [159] has taken a fork with right hand
+==800== Philosopher [171] has taken a fork with left hand
+==800== Philosopher [171] is eating
+==800== Philosopher [165] has taken a fork with left hand
+==800== Philosopher [165] is eating
+==800== Philosopher [177] is thinking
+==800== Philosopher [169] is eating
+==800== Philosopher [173] is thinking
+==800== Philosopher [173] has taken a fork with right hand
+==800== Philosopher [197] has taken a fork with right hand
+==800== Philosopher [187] is thinking
+==800== Philosopher [187] has taken a fork with right hand
+==800== Philosopher [178] is sleeping
+==800== Philosopher [173] has taken a fork with left hand
+==800== Philosopher [173] is eating
+==800== Philosopher [179] has taken a fork with left hand
+==800== Philosopher [179] is eating
+==800== Philosopher [187] has taken a fork with left hand
+==800== Philosopher [187] is eating
+==800== Philosopher [177] has taken a fork with right hand
+==800== Philosopher [177] has taken a fork with left hand
+==800== Philosopher [177] is eating
+==800== Philosopher [181] is thinking
+==800== Philosopher [181] has taken a fork with right hand
+==800== Philosopher [181] has taken a fork with left hand
+==800== Philosopher [196] is sleeping
+==800== Philosopher [181] is eating
+==800== Philosopher [197] has taken a fork with left hand
+==800== Philosopher [197] is eating
+==800== Philosopher [195] has taken a fork with right hand
+==800== Philosopher [195] has taken a fork with left hand
+==800== Philosopher [195] is eating
+==800== Philosopher [161] is thinking
+==800== Philosopher [161] has taken a fork with right hand
+==800== Philosopher [161] has taken a fork with left hand
+==800== Philosopher [161] is eating
+==1000== Philosopher [7] is sleeping
+==1000== Philosopher [3] is thinking
+==1000== Philosopher [6] is thinking
+==1000== Philosopher [4] is sleeping
+==1000== Philosopher [5] has taken a fork with left hand
+==1000== Philosopher [5] is eating
+==1000== Philosopher [3] has taken a fork with right hand
+==1000== Philosopher [8] is thinking
+==1000== Philosopher [8] has taken a fork with left hand
+==1000== Philosopher [92] is thinking
+==1000== Philosopher [98] is thinking
+==1000== Philosopher [57] is sleeping
+==1000== Philosopher [73] is sleeping
+==1000== Philosopher [75] is sleeping
+==1000== Philosopher [20] is thinking
+==1000== Philosopher [64] is thinking
+==1001== Philosopher [8] has taken a fork with right hand
+==1000== Philosopher [35] is sleeping
+==1000== Philosopher [96] is thinking
+==1001== Philosopher [9] is sleeping
+==1000== Philosopher [58] is thinking
+==1000== Philosopher [79] is sleeping
+==1000== Philosopher [93] is sleeping
+==1000== Philosopher [55] is sleeping
+==1000== Philosopher [66] is thinking
+==1000== Philosopher [15] is sleeping
+==1000== Philosopher [69] is sleeping
+==1000== Philosopher [27] is sleeping
+==1000== Philosopher [39] is sleeping
+==1001== Philosopher [8] is eating
+==1000== Philosopher [42] is thinking
+==1001== Philosopher [12] is thinking
+==1000== Philosopher [45] is sleeping
+==1000== Philosopher [76] is thinking
+==1000== Philosopher [65] is sleeping
+==1000== Philosopher [108] is thinking
+==1000== Philosopher [88] is thinking
+==1000== Philosopher [36] is thinking
+==1000== Philosopher [51] is sleeping
+==1000== Philosopher [88] has taken a fork with left hand
+==1000== Philosopher [94] is thinking
+==1000== Philosopher [29] is sleeping
+==1000== Philosopher [66] has taken a fork with left hand
+==1000== Philosopher [36] has taken a fork with left hand
+==1000== Philosopher [41] is sleeping
+==1000== Philosopher [32] is thinking
+==1000== Philosopher [97] is sleeping
+==1000== Philosopher [26] is thinking
+==1000== Philosopher [26] has taken a fork with left hand
+==1000== Philosopher [26] has taken a fork with right hand
+==1000== Philosopher [26] is eating
+==1000== Philosopher [52] is thinking
+==1000== Philosopher [94] has taken a fork with left hand
+==1000== Philosopher [58] has taken a fork with left hand
+==1000== Philosopher [106] is thinking
+==1000== Philosopher [33] is sleeping
+==1000== Philosopher [52] has taken a fork with left hand
+==1000== Philosopher [58] has taken a fork with right hand
+==1000== Philosopher [58] is eating
+==1000== Philosopher [106] has taken a fork with left hand
+==1000== Philosopher [101] is sleeping
+==1000== Philosopher [91] is sleeping
+==1000== Philosopher [19] is sleeping
+==1000== Philosopher [52] has taken a fork with right hand
+==1000== Philosopher [20] has taken a fork with left hand
+==1000== Philosopher [21] is sleeping
+==1000== Philosopher [20] has taken a fork with right hand
+==1000== Philosopher [89] is sleeping
+==1000== Philosopher [24] is thinking
+==1000== Philosopher [78] is thinking
+==1000== Philosopher [66] has taken a fork with right hand
+==1000== Philosopher [52] is eating
+==1000== Philosopher [16] is thinking
+==1000== Philosopher [83] is sleeping
+==1000== Philosopher [106] has taken a fork with right hand
+==1000== Philosopher [44] is thinking
+==1000== Philosopher [72] is thinking
+==1000== Philosopher [106] is eating
+==1000== Philosopher [30] is thinking
+==1000== Philosopher [30] has taken a fork with left hand
+==1000== Philosopher [84] is thinking
+==1000== Philosopher [102] is thinking
+==1000== Philosopher [23] is sleeping
+==1000== Philosopher [85] is sleeping
+==1000== Philosopher [84] has taken a fork with left hand
+==1000== Philosopher [24] has taken a fork with left hand
+==1000== Philosopher [98] has taken a fork with left hand
+==1000== Philosopher [24] has taken a fork with right hand
+==1000== Philosopher [42] has taken a fork with left hand
+==1000== Philosopher [70] is thinking
+==1000== Philosopher [68] is thinking
+==1000== Philosopher [16] has taken a fork with left hand
+==1000== Philosopher [70] has taken a fork with left hand
+==1000== Philosopher [14] is thinking
+==1000== Philosopher [63] is sleeping
+==1000== Philosopher [46] is thinking
+==1000== Philosopher [28] is thinking
+==1000== Philosopher [108] has taken a fork with left hand
+==1000== Philosopher [46] has taken a fork with left hand
+==1000== Philosopher [56] is thinking
+==1000== Philosopher [48] is thinking
+==1000== Philosopher [88] has taken a fork with right hand
+==1000== Philosopher [20] is eating
+==1000== Philosopher [86] is thinking
+==1000== Philosopher [56] has taken a fork with left hand
+==1000== Philosopher [38] is thinking
+==1000== Philosopher [86] has taken a fork with left hand
+==1000== Philosopher [56] has taken a fork with right hand
+==1000== Philosopher [67] is sleeping
+==1000== Philosopher [94] has taken a fork with right hand
+==1000== Philosopher [86] has taken a fork with right hand
+==1000== Philosopher [28] has taken a fork with left hand
+==1000== Philosopher [78] has taken a fork with left hand
+==1000== Philosopher [38] has taken a fork with left hand
+==1000== Philosopher [18] is thinking
+==1000== Philosopher [28] has taken a fork with right hand
+==1000== Philosopher [78] has taken a fork with right hand
+==1000== Philosopher [100] is thinking
+==1000== Philosopher [38] has taken a fork with right hand
+==1000== Philosopher [16] has taken a fork with right hand
+==1000== Philosopher [59] is sleeping
+==1000== Philosopher [105] is sleeping
+==1000== Philosopher [99] is sleeping
+==1000== Philosopher [87] is sleeping
+==1000== Philosopher [16] is eating
+==1000== Philosopher [43] is sleeping
+==1000== Philosopher [22] is thinking
+==1000== Philosopher [49] is sleeping
+==1000== Philosopher [84] has taken a fork with right hand
+==1000== Philosopher [60] is thinking
+==1000== Philosopher [84] is eating
+==1000== Philosopher [61] is sleeping
+==1000== Philosopher [60] has taken a fork with left hand
+==1000== Philosopher [13] is sleeping
+==1000== Philosopher [54] is thinking
+==1000== Philosopher [42] has taken a fork with right hand
+==1000== Philosopher [64] has taken a fork with left hand
+==1000== Philosopher [54] has taken a fork with left hand
+==1000== Philosopher [32] has taken a fork with left hand
+==1000== Philosopher [54] has taken a fork with right hand
+==1000== Philosopher [14] has taken a fork with left hand
+==1000== Philosopher [32] has taken a fork with right hand
+==1000== Philosopher [70] has taken a fork with right hand
+==1000== Philosopher [14] has taken a fork with right hand
+==1000== Philosopher [32] is eating
+==1000== Philosopher [14] is eating
+==1000== Philosopher [90] is thinking
+==1000== Philosopher [76] has taken a fork with left hand
+==1000== Philosopher [71] is sleeping
+==1000== Philosopher [82] is thinking
+==1000== Philosopher [76] has taken a fork with right hand
+==1000== Philosopher [76] is eating
+==1000== Philosopher [82] has taken a fork with left hand
+==1000== Philosopher [81] is sleeping
+==1000== Philosopher [95] is sleeping
+==1000== Philosopher [80] is thinking
+==1000== Philosopher [37] is sleeping
+==1000== Philosopher [80] has taken a fork with left hand
+==1000== Philosopher [80] has taken a fork with right hand
+==1000== Philosopher [80] is eating
+==1000== Philosopher [94] is eating
+==1000== Philosopher [62] is thinking
+==1000== Philosopher [62] has taken a fork with left hand
+==1000== Philosopher [66] is eating
+==1000== Philosopher [62] has taken a fork with right hand
+==1000== Philosopher [62] is eating
+==1000== Philosopher [107] is sleeping
+==1000== Philosopher [28] is eating
+==1000== Philosopher [72] has taken a fork with left hand
+==1000== Philosopher [72] has taken a fork with right hand
+==1000== Philosopher [72] is eating
+==1000== Philosopher [38] is eating
+==1000== Philosopher [100] has taken a fork with left hand
+==1000== Philosopher [100] has taken a fork with right hand
+==1000== Philosopher [100] is eating
+==1000== Philosopher [78] is eating
+==1001== Philosopher [10] is thinking
+==1001== Philosopher [10] has taken a fork with left hand
+==1001== Philosopher [10] has taken a fork with right hand
+==1000== Philosopher [47] is sleeping
+==1000== Philosopher [36] has taken a fork with right hand
+==1000== Philosopher [36] is eating
+==1000== Philosopher [34] is thinking
+==1000== Philosopher [34] has taken a fork with left hand
+==1000== Philosopher [34] has taken a fork with right hand
+==1000== Philosopher [34] is eating
+==1000== Philosopher [30] has taken a fork with right hand
+==1000== Philosopher [30] is eating
+==1000== Philosopher [77] is sleeping
+==1000== Philosopher [31] is sleeping
+==1000== Philosopher [24] is eating
+==1001== Philosopher [11] is sleeping
+==1000== Philosopher [98] has taken a fork with right hand
+==1000== Philosopher [98] is eating
+==1000== Philosopher [22] has taken a fork with left hand
+==1000== Philosopher [22] has taken a fork with right hand
+==1000== Philosopher [22] is eating
+==1000== Philosopher [25] is sleeping
+==1001== Philosopher [12] has taken a fork with left hand
+==1000== Philosopher [102] has taken a fork with left hand
+==1001== Philosopher [12] has taken a fork with right hand
+==1001== Philosopher [12] is eating
+==1000== Philosopher [102] has taken a fork with right hand
+==1000== Philosopher [102] is eating
+==1000== Philosopher [60] has taken a fork with right hand
+==1000== Philosopher [60] is eating
+==1000== Philosopher [17] is sleeping
+==1000== Philosopher [53] is sleeping
+==1000== Philosopher [42] is eating
+==1000== Philosopher [18] has taken a fork with left hand
+==1000== Philosopher [18] has taken a fork with right hand
+==1000== Philosopher [18] is eating
+==1000== Philosopher [64] has taken a fork with right hand
+==1000== Philosopher [64] is eating
+==1000== Philosopher [68] has taken a fork with left hand
+==1000== Philosopher [68] has taken a fork with right hand
+==1000== Philosopher [68] is eating
+==1000== Philosopher [54] is eating
+==1000== Philosopher [46] has taken a fork with right hand
+==1000== Philosopher [92] has taken a fork with left hand
+==1000== Philosopher [70] is eating
+==1000== Philosopher [74] is thinking
+==1000== Philosopher [50] is thinking
+==1000== Philosopher [50] has taken a fork with left hand
+==1000== Philosopher [74] has taken a fork with left hand
+==1000== Philosopher [48] has taken a fork with left hand
+==1000== Philosopher [74] has taken a fork with right hand
+==1000== Philosopher [48] has taken a fork with right hand
+==1000== Philosopher [90] has taken a fork with left hand
+==1000== Philosopher [74] is eating
+==1000== Philosopher [88] is eating
+==1000== Philosopher [40] is thinking
+==1000== Philosopher [96] has taken a fork with left hand
+==1000== Philosopher [103] is sleeping
+==1000== Philosopher [40] has taken a fork with left hand
+==1000== Philosopher [86] is eating
+==1001== Philosopher [10] is eating
+==1000== Philosopher [40] has taken a fork with right hand
+==1000== Philosopher [46] is eating
+==1000== Philosopher [50] has taken a fork with right hand
+==1000== Philosopher [40] is eating
+==1000== Philosopher [50] is eating
+==1000== Philosopher [48] is eating
+==1000== Philosopher [90] has taken a fork with right hand
+==1000== Philosopher [56] is eating
+==1000== Philosopher [96] has taken a fork with right hand
+==1000== Philosopher [90] is eating
+==1000== Philosopher [92] has taken a fork with right hand
+==1000== Philosopher [104] is thinking
+==1000== Philosopher [96] is eating
+==1000== Philosopher [44] has taken a fork with left hand
+==1000== Philosopher [104] has taken a fork with left hand
+==1000== Philosopher [44] has taken a fork with right hand
+==1000== Philosopher [82] has taken a fork with right hand
+==1000== Philosopher [104] has taken a fork with right hand
+==1000== Philosopher [104] is eating
+==1000== Philosopher [82] is eating
+==1000== Philosopher [92] is eating
+==1000== Philosopher [44] is eating
+==1000== Philosopher [128] is thinking
+==1000== Philosopher [115] is sleeping
+==1000== Philosopher [120] is thinking
+==1000== Philosopher [123] is sleeping
+==1000== Philosopher [124] is thinking
+==1000== Philosopher [124] has taken a fork with left hand
+==1001== Philosopher [113] is sleeping
+==1000== Philosopher [146] is thinking
+==1000== Philosopher [118] is thinking
+==1000== Philosopher [151] is thinking
+==1000== Philosopher [153] is thinking
+==1000== Philosopher [155] is thinking
+==1000== Philosopher [136] is thinking
+==1000== Philosopher [118] has taken a fork with left hand
+==1000== Philosopher [141] is sleeping
+==1000== Philosopher [144] is thinking
+==999== Philosopher [157] is thinking
+==1001== Philosopher [114] is thinking
+==1000== Philosopher [142] is thinking
+==1000== Philosopher [144] has taken a fork with left hand
+==1000== Philosopher [130] is thinking
+==1001== Philosopher [114] has taken a fork with left hand
+==1000== Philosopher [143] is sleeping
+==1000== Philosopher [138] is thinking
+==1000== Philosopher [127] is sleeping
+==1000== Philosopher [156] is sleeping
+==1000== Philosopher [134] is thinking
+==1000== Philosopher [125] is sleeping
+==1000== Philosopher [133] is sleeping
+==1001== Philosopher [114] has taken a fork with right hand
+==1000== Philosopher [117] is sleeping
+==1000== Philosopher [144] has taken a fork with right hand
+==1000== Philosopher [121] is sleeping
+==999== Philosopher [158] is sleeping
+==1001== Philosopher [112] is thinking
+==1000== Philosopher [135] is sleeping
+==999== Philosopher [157] has taken a fork with right hand
+==1001== Philosopher [112] has taken a fork with left hand
+==1001== Philosopher [114] is eating
+==1000== Philosopher [139] is sleeping
+==1000== Philosopher [119] is sleeping
+==1001== Philosopher [112] has taken a fork with right hand
+==1000== Philosopher [146] has taken a fork with left hand
+==1001== Philosopher [111] is sleeping
+==1000== Philosopher [152] is sleeping
+==1000== Philosopher [154] is sleeping
+==1000== Philosopher [144] is eating
+==1000== Philosopher [116] is thinking
+==999== Philosopher [157] has taken a fork with left hand
+==1000== Philosopher [148] is thinking
+==999== Philosopher [159] has taken a fork with left hand
+==999== Philosopher [159] is eating
+==1000== Philosopher [151] has taken a fork with right hand
+==1001== Philosopher [110] is thinking
+==1001== Philosopher [109] is sleeping
+==1000== Philosopher [118] has taken a fork with right hand
+==1001== Philosopher [108] has taken a fork with right hand
+==1000== Philosopher [118] is eating
+==1000== Philosopher [155] has taken a fork with right hand
+==1001== Philosopher [108] is eating
+==1000== Philosopher [155] has taken a fork with left hand
+==1000== Philosopher [136] has taken a fork with left hand
+==1000== Philosopher [120] has taken a fork with left hand
+==1000== Philosopher [136] has taken a fork with right hand
+==1000== Philosopher [136] is eating
+==1000== Philosopher [120] has taken a fork with right hand
+==1000== Philosopher [116] has taken a fork with left hand
+==1000== Philosopher [138] has taken a fork with left hand
+==1000== Philosopher [116] has taken a fork with right hand
+==1000== Philosopher [138] has taken a fork with right hand
+==1001== Philosopher [110] has taken a fork with left hand
+==1000== Philosopher [138] is eating
+==1001== Philosopher [110] has taken a fork with right hand
+==1000== Philosopher [131] is sleeping
+==1000== Philosopher [155] is eating
+==1000== Philosopher [140] is thinking
+==1000== Philosopher [129] is sleeping
+==1000== Philosopher [130] has taken a fork with left hand
+==1000== Philosopher [134] has taken a fork with left hand
+==1000== Philosopher [130] has taken a fork with right hand
+==1000== Philosopher [134] has taken a fork with right hand
+==1000== Philosopher [130] is eating
+==1000== Philosopher [134] is eating
+==999== Philosopher [157] is eating
+==1000== Philosopher [116] is eating
+==1001== Philosopher [112] is eating
+==1001== Philosopher [110] is eating
+==1000== Philosopher [137] is sleeping
+==1000== Philosopher [153] has taken a fork with right hand
+==1000== Philosopher [124] has taken a fork with right hand
+==1000== Philosopher [122] is thinking
+==1000== Philosopher [120] is eating
+==1000== Philosopher [124] is eating
+==1000== Philosopher [122] has taken a fork with left hand
+==1000== Philosopher [122] has taken a fork with right hand
+==1000== Philosopher [122] is eating
+==1000== Philosopher [126] is thinking
+==1000== Philosopher [145] is sleeping
+==1000== Philosopher [126] has taken a fork with left hand
+==1000== Philosopher [126] has taken a fork with right hand
+==1000== Philosopher [126] is eating
+==1000== Philosopher [140] has taken a fork with left hand
+==1000== Philosopher [142] has taken a fork with left hand
+==1000== Philosopher [142] has taken a fork with right hand
+==1000== Philosopher [153] has taken a fork with left hand
+==1000== Philosopher [153] is eating
+==1000== Philosopher [132] is thinking
+==1000== Philosopher [132] has taken a fork with left hand
+==1000== Philosopher [132] has taken a fork with right hand
+==1000== Philosopher [140] has taken a fork with right hand
+==1000== Philosopher [140] is eating
+==1000== Philosopher [132] is eating
+==1000== Philosopher [142] is eating
+==1000== Philosopher [147] is sleeping
+==1000== Philosopher [146] has taken a fork with right hand
+==1000== Philosopher [148] has taken a fork with left hand
+==1000== Philosopher [128] has taken a fork with left hand
+==1000== Philosopher [146] is eating
+==1000== Philosopher [128] has taken a fork with right hand
+==1000== Philosopher [148] has taken a fork with right hand
+==1000== Philosopher [128] is eating
+==1000== Philosopher [148] is eating
+==1000== Philosopher [150] is sleeping
+==1000== Philosopher [151] has taken a fork with left hand
+==1000== Philosopher [151] is eating
+==1000== Philosopher [149] has taken a fork with right hand
+==1000== Philosopher [182] is thinking
+==1000== Philosopher [163] is sleeping
+==1000== Philosopher [184] is thinking
+==1000== Philosopher [173] is sleeping
+==1000== Philosopher [165] is sleeping
+==1000== Philosopher [189] is sleeping
+==1000== Philosopher [172] is thinking
+==1000== Philosopher [169] is sleeping
+==1000== Philosopher [180] is thinking
+==1000== Philosopher [176] is thinking
+==1000== Philosopher [184] has taken a fork with left hand
+==1000== Philosopher [183] is sleeping
+==1000== Philosopher [195] is sleeping
+==1000== Philosopher [162] is thinking
+==1000== Philosopher [190] is thinking
+==1003== Philosopher [1] is thinking
+==1000== Philosopher [193] is sleeping
+==1000== Philosopher [166] is thinking
+==1000== Philosopher [177] is sleeping
+==1000== Philosopher [167] is sleeping
+==1003== Philosopher [3] has taken a fork with left hand
+==1000== Philosopher [190] has taken a fork with left hand
+==1000== Philosopher [174] is thinking
+==1000== Philosopher [196] is thinking
+==1000== Philosopher [174] has taken a fork with left hand
+==1000== Philosopher [196] has taken a fork with left hand
+==1000== Philosopher [184] has taken a fork with right hand
+==1000== Philosopher [197] is sleeping
+==1000== Philosopher [166] has taken a fork with left hand
+==1000== Philosopher [185] is sleeping
+==1003== Philosopher [3] is eating
+==1003== Philosopher [2] is sleeping
+==1000== Philosopher [184] is eating
+==1000== Philosopher [188] is thinking
+==1003== Philosopher [1] has taken a fork with right hand
+==1000== Philosopher [166] has taken a fork with right hand
+==1000== Philosopher [196] has taken a fork with right hand
+==1000== Philosopher [166] is eating
+==1000== Philosopher [196] is eating
+==1000== Philosopher [194] is thinking
+==1000== Philosopher [171] is sleeping
+==1000== Philosopher [194] has taken a fork with left hand
+==1000== Philosopher [172] has taken a fork with left hand
+==1000== Philosopher [172] has taken a fork with right hand
+==1000== Philosopher [194] has taken a fork with right hand
+==1000== Philosopher [172] is eating
+==1000== Philosopher [194] is eating
+==1000== Philosopher [175] is sleeping
+==1000== Philosopher [188] has taken a fork with left hand
+==1000== Philosopher [187] is sleeping
+==1000== Philosopher [179] is sleeping
+==1000== Philosopher [176] has taken a fork with left hand
+==1000== Philosopher [198] is thinking
+==1000== Philosopher [174] has taken a fork with right hand
+==1000== Philosopher [191] is sleeping
+==1000== Philosopher [198] has taken a fork with left hand
+==1000== Philosopher [178] is thinking
+==1000== Philosopher [190] has taken a fork with right hand
+==1000== Philosopher [176] has taken a fork with right hand
+==1000== Philosopher [178] has taken a fork with left hand
+==1000== Philosopher [176] is eating
+==1000== Philosopher [192] is thinking
+==1000== Philosopher [180] has taken a fork with left hand
+==1000== Philosopher [174] is eating
+==1000== Philosopher [192] has taken a fork with left hand
+==1000== Philosopher [160] is thinking
+==1000== Philosopher [190] is eating
+==1000== Philosopher [188] has taken a fork with right hand
+==1000== Philosopher [168] is thinking
+==1000== Philosopher [192] has taken a fork with right hand
+==1000== Philosopher [168] has taken a fork with left hand
+==1000== Philosopher [178] has taken a fork with right hand
+==1000== Philosopher [188] is eating
+==1000== Philosopher [178] is eating
+==1000== Philosopher [192] is eating
+==1000== Philosopher [168] has taken a fork with right hand
+==1000== Philosopher [168] is eating
+==1000== Philosopher [170] is thinking
+==1000== Philosopher [186] is thinking
+==1000== Philosopher [170] has taken a fork with left hand
+==1000== Philosopher [161] is sleeping
+==1000== Philosopher [186] has taken a fork with left hand
+==1000== Philosopher [162] has taken a fork with left hand
+==1000== Philosopher [182] has taken a fork with left hand
+==1000== Philosopher [164] is thinking
+==1003== Philosopher [0] is sleeping
+==1003== Philosopher [1] has taken a fork with left hand
+==1000== Philosopher [181] is sleeping
+==1000== Philosopher [186] has taken a fork with right hand
+==1000== Philosopher [182] has taken a fork with right hand
+==1000== Philosopher [186] is eating
+==1000== Philosopher [162] has taken a fork with right hand
+==1000== Philosopher [182] is eating
+==1000== Philosopher [164] has taken a fork with left hand
+==1000== Philosopher [180] has taken a fork with right hand
+==1000== Philosopher [180] is eating
+==1000== Philosopher [198] has taken a fork with right hand
+==1000== Philosopher [170] has taken a fork with right hand
+==1003== Philosopher [1] is eating
+==1000== Philosopher [198] is eating
+==1000== Philosopher [170] is eating
+==1000== Philosopher [162] is eating
+==1000== Philosopher [164] has taken a fork with right hand
+==1000== Philosopher [164] is eating
+==1011== Philosopher [149] died.
