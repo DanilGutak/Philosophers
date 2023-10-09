@@ -6,7 +6,7 @@
 /*   By: dgutak <dgutak@student.42vienna.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/04/25 18:59:42 by dgutak            #+#    #+#             */
-/*   Updated: 2023/10/08 18:59:35 by dgutak           ###   ########.fr       */
+/*   Updated: 2023/10/09 17:22:32 by dgutak           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -33,4 +33,39 @@ size_t	atoi_new(char *str)
 		str++;
 	}
 	return (sign * x);
+}
+
+void	sleep_improved(int time)
+{
+	size_t	finish;
+	size_t	start;
+
+	start = get_current_time();
+	finish = start + time;
+	while (start < finish)
+	{
+		usleep(100);
+		start = get_current_time();
+	}
+}
+
+size_t	get_current_time(void)
+{
+	struct timeval	time;
+
+	gettimeofday(&time, NULL);
+	return (time.tv_sec * 1000 + time.tv_usec / 1000);
+}
+
+void	sleeping(t_philos *philos)
+{
+	pthread_mutex_lock(philos->eaten_lock);
+	if (*philos->dead != 1 && *philos->n_full < philos->num_phil)
+	{
+		pthread_mutex_unlock(philos->eaten_lock);
+		print_event(philos, "is sleeping");
+		sleep_improved(philos->time_sleep);
+	}
+	else
+		pthread_mutex_unlock(philos->eaten_lock);
 }

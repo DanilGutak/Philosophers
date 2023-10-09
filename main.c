@@ -6,7 +6,7 @@
 /*   By: dgutak <dgutak@student.42vienna.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/04 12:03:27 by dgutak            #+#    #+#             */
-/*   Updated: 2023/10/08 18:24:11 by dgutak           ###   ########.fr       */
+/*   Updated: 2023/10/09 17:04:39 by dgutak           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -64,14 +64,14 @@ int	init_phils(t_data *data, int argc, char **argv)
 
 	i = -1;
 	data->dead = 0;
-	data->full = 0;
+	data->n_full = 0;
 	if (parse_input(&(data->squad[0]), argc, argv) == 1)
 		return (1);
 	while (++i < data->squad[0].num_phil)
 	{
 		parse_input(&(data->squad[i]), argc, argv);
 		data->squad[i].dead = &data->dead;
-		data->squad[i].full = &data->full;
+		data->squad[i].n_full = &data->n_full;
 		data->squad[i].id = i;
 		data->squad[i].times_eaten = 0;
 		data->squad[i].print_lock = &data->print_lock;
@@ -113,5 +113,6 @@ int	main(int argc, char **argv)
 		return (1);
 	if (action(&data) == 1)
 		return (1);
+	destroy_forks(data.squad, data.squad->num_phil);
 	return (0);
 }
