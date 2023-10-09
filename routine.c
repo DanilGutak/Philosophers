@@ -6,7 +6,7 @@
 /*   By: dgutak <dgutak@student.42vienna.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/09 15:06:05 by dgutak            #+#    #+#             */
-/*   Updated: 2023/10/09 18:12:24 by dgutak           ###   ########.fr       */
+/*   Updated: 2023/10/09 21:29:05 by dgutak           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,11 +14,11 @@
 
 void	take_right_fork(t_philos *philos)
 {
+	pthread_mutex_lock(&philos->r_fork);
 	pthread_mutex_lock(philos->eaten_lock);
 	if (*philos->dead != 1 && *philos->n_full < philos->num_phil)
 	{
 		pthread_mutex_unlock(philos->eaten_lock);
-		pthread_mutex_lock(&philos->r_fork);
 		print_event(philos, "has taken a fork");
 	}
 	else
@@ -27,11 +27,11 @@ void	take_right_fork(t_philos *philos)
 
 void	take_left_fork(t_philos *philos)
 {
+	pthread_mutex_lock(philos->l_fork);
 	pthread_mutex_lock(philos->eaten_lock);
 	if (*philos->dead != 1 && *philos->n_full < philos->num_phil)
 	{
 		pthread_mutex_unlock(philos->eaten_lock);
-		pthread_mutex_lock(philos->l_fork);
 		print_event(philos, "has taken a fork");
 	}
 	else
@@ -85,10 +85,8 @@ void	*routine(void *s)
 
 	philos = (t_philos *)s;
 	if (philos->num_phil == 1)
-	{
-		print_event(philos, "has taken a fork");
-		return (sleep_improved(philos->time_die), NULL);
-	}
+		return (print_event(philos, "has taken a fork"),
+			sleep_improved(philos->time_die), NULL);
 	pthread_mutex_lock(philos->eaten_lock);
 	while (*philos->dead == 0 && *philos->n_full < philos->num_phil)
 	{

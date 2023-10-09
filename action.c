@@ -6,7 +6,7 @@
 /*   By: dgutak <dgutak@student.42vienna.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/08 15:00:38 by dgutak            #+#    #+#             */
-/*   Updated: 2023/10/09 17:22:39 by dgutak           ###   ########.fr       */
+/*   Updated: 2023/10/09 21:26:22 by dgutak           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -63,7 +63,7 @@ int	action(t_data *data)
 	}
 	while (1)
 		if (check_death(data) == 1)
-			return (0);
+			break ;
 	i = -1;
 	while (++i < data->squad[0].num_phil)
 	{

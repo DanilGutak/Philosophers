@@ -6,7 +6,7 @@
 /*   By: dgutak <dgutak@student.42vienna.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/27 16:12:47 by dgutak            #+#    #+#             */
-/*   Updated: 2023/10/09 18:12:37 by dgutak           ###   ########.fr       */
+/*   Updated: 2023/10/09 18:41:42 by dgutak           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -31,10 +31,10 @@ void	destroy_philosphers(t_philos *philos, int i)
 
 int	destroy_forks(t_philos *philos, int i)
 {
-	/* while (--i >= 0)
+	while (--i >= 0)
 	{
 		pthread_mutex_destroy(&philos[i].r_fork);
-	} */
+	}
 	pthread_mutex_destroy(philos->eaten_lock);
 	pthread_mutex_destroy(philos->print_lock);
 	return (i);

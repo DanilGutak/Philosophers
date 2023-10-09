@@ -6,7 +6,7 @@
 /*   By: dgutak <dgutak@student.42vienna.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/04/25 18:59:42 by dgutak            #+#    #+#             */
-/*   Updated: 2023/10/09 17:22:32 by dgutak           ###   ########.fr       */
+/*   Updated: 2023/10/09 18:21:51 by dgutak           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -44,7 +44,7 @@ void	sleep_improved(int time)
 	finish = start + time;
 	while (start < finish)
 	{
-		usleep(100);
+		usleep(500);
 		start = get_current_time();
 	}
 }
