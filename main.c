@@ -6,7 +6,7 @@
 /*   By: dgutak <dgutak@student.42vienna.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/04 12:03:27 by dgutak            #+#    #+#             */
-/*   Updated: 2023/10/09 17:04:39 by dgutak           ###   ########.fr       */
+/*   Updated: 2023/10/10 12:41:38 by dgutak           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -77,7 +77,7 @@ int	init_phils(t_data *data, int argc, char **argv)
 		data->squad[i].print_lock = &data->print_lock;
 		data->squad[i].eaten_lock = &data->eaten_lock;
 		if (pthread_mutex_init(&data->squad[i].r_fork, NULL) != 0)
-			return (destroy_forks(data->squad, i));
+			return (destroy_forks(data->squad, i), error("mutex init failed"));
 		if (i != 0)
 			data->squad[i].l_fork = &data->squad[i - 1].r_fork;
 	}

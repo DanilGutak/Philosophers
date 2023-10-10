@@ -6,7 +6,7 @@
 /*   By: dgutak <dgutak@student.42vienna.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/08 15:00:38 by dgutak            #+#    #+#             */
-/*   Updated: 2023/10/09 21:26:22 by dgutak           ###   ########.fr       */
+/*   Updated: 2023/10/10 12:56:23 by dgutak           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -35,8 +35,6 @@ int	check_death(t_data *data)
 			data->dead = 1;
 			if (data->n_full < data->squad[i].num_phil)
 				print_event(&data->squad[i], "died");
-			else
-				print_event(&data->squad[i], "ALL FULL");
 			pthread_mutex_unlock(&data->eaten_lock);
 			return (1);
 		}

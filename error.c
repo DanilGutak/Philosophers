@@ -6,7 +6,7 @@
 /*   By: dgutak <dgutak@student.42vienna.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/27 16:12:47 by dgutak            #+#    #+#             */
-/*   Updated: 2023/10/09 18:41:42 by dgutak           ###   ########.fr       */
+/*   Updated: 2023/10/10 12:41:20 by dgutak           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,13 +23,14 @@ int	error(char *str)
 void	destroy_philosphers(t_philos *philos, int i)
 {
 	destroy_forks(philos, philos->num_phil);
-	while (--i >= 0)
+	while (i >= 0)
 	{
 		pthread_join(philos[i].thread, NULL);
+		i--;
 	}
 }
 
-int	destroy_forks(t_philos *philos, int i)
+void	destroy_forks(t_philos *philos, int i)
 {
 	while (--i >= 0)
 	{
@@ -37,5 +38,4 @@ int	destroy_forks(t_philos *philos, int i)
 	}
 	pthread_mutex_destroy(philos->eaten_lock);
 	pthread_mutex_destroy(philos->print_lock);
-	return (i);
 }
