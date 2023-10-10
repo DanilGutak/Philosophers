@@ -6,14 +6,13 @@
 /*   By: dgutak <dgutak@student.42vienna.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/07/31 17:58:53 by dgutak            #+#    #+#             */
-/*   Updated: 2023/10/10 13:01:15 by dgutak           ###   ########.fr       */
+/*   Updated: 2023/10/10 13:11:03 by dgutak           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef PHILOSOPHERS_H
 # define PHILOSOPHERS_H
 
-# include "libft.h"
 # include <pthread.h>
 # include <stdio.h>
 # include <stdlib.h>
@@ -54,6 +53,7 @@ size_t				atoi_new(char *str);
 int					error(char *str);
 void				*routine(void *s);
 int					action(t_data *data);
+int					ft_putstr_fd(char *s, int fd);
 void				destroy_forks(t_philos *philos, int i);
 void				destroy_philosphers(t_philos *philos, int i);
 int					print_event(t_philos *data, char *str);

@@ -6,11 +6,27 @@
 /*   By: dgutak <dgutak@student.42vienna.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/04/25 18:59:42 by dgutak            #+#    #+#             */
-/*   Updated: 2023/10/09 18:21:51 by dgutak           ###   ########.fr       */
+/*   Updated: 2023/10/10 13:11:47 by dgutak           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "philosophers.h"
+
+int	ft_putstr_fd(char *s, int fd)
+{
+	int	i;
+
+	i = 0;
+	if (!s)
+		return (write(1, "(null)", 6));
+	while (*s)
+	{
+		write(fd, s, 1);
+		s++;
+		i++;
+	}
+	return (i);
+}
 
 size_t	atoi_new(char *str)
 {
